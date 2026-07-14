@@ -1,19 +1,3 @@
-"""
-app.py
-------
-Interactive Streamlit dashboard for the Customer Segmentation project.
-
-Run with:
-    streamlit run app.py
-
-Features:
-  - KPI cards (total customers, avg spend, avg income, segment count)
-  - Filters: Age range, Income range, City/Region, Segment
-  - Segment distribution chart
-  - Segment profile comparison (radar-style bar chart)
-  - PCA cluster scatter plot
-  - Raw filtered data table + CSV download
-"""
 
 import streamlit as st
 import pandas as pd
