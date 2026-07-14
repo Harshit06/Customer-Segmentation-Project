@@ -97,8 +97,6 @@ you'd find in a real CRM export.
 9. **Model Evaluation** — Silhouette Score, Davies-Bouldin Index, cluster stability check across resamples.
 10. **Dashboard** — Interactive Streamlit app with filters, KPIs, and segment visualizations.
 
-Full step-by-step code and narrative live in
-[`notebooks/Customer_Segmentation_Analysis.ipynb`](notebooks/Customer_Segmentation_Analysis.ipynb).
 
 ---
 
@@ -219,8 +217,8 @@ customer-segmentation/
 
 ## 👤 Author / Contact
 
-**Your Name**
-📧 your.email@example.com · 🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+**Harshit Fartiyal**
+📧 fartiyalharshit41@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/harshitfartiyal) · 💻 [GitHub](https://github.com/Harshit06)
 
 *This project was built as part of an internship/portfolio submission to demonstrate an
 end-to-end unsupervised machine learning workflow — from raw data to a business-ready dashboard.*
