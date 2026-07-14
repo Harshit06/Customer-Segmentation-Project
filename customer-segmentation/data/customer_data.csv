@@ -1,0 +1,1201 @@
+CustomerID,Age,Gender,City,AnnualIncome_INR_K,SpendingScore,PurchaseFrequency,Recency_Days,Tenure_Months,ProductCategoryPreference,AvgOrderValue_INR,MonetaryValue_INR,SatisfactionScore
+CUST01179,59,Male,Mumbai,1117.1,16,8,99,16,Electronics,200.0,1738.6,3.5
+CUST00866,19,Male,Hyderabad,571.7,60,23,4,25,Beauty & Personal Care,200.0,5383.27,4.6
+CUST00102,51,Female,Ahmedabad,691.9,49,16,313,17,Fashion & Apparel,200.0,3463.17,3.0
+CUST00440,21,Female,,438.9,75,29,27,43,Grocery,204.28,5993.57,3.7
+CUST00059,26,Female,Mumbai,595.5,45,11,41,15,Electronics,200.0,1902.72,2.7
+CUST01121,28,Male,Delhi,814.5,54,17,4,30,Sports & Fitness,209.14,4044.86,2.9
+CUST00324,40,Male,Hyderabad,823.3,92,29,37,34,Home & Furniture,254.36,8109.93,3.9
+CUST00975,51,Female,Ahmedabad,1064.4,13,6,15,25,Beauty & Personal Care,200.0,1060.96,2.9
+CUST00412,32,Female,Ahmedabad,221.7,98,40,1,57,Electronics,312.82,12101.01,5.0
+CUST00856,47,Male,Mumbai,530.6,42,17,287,24,Beauty & Personal Care,200.0,3583.73,4.0
+CUST00821,34,Male,Mumbai,288.4,39,12,170,20,Fashion & Apparel,200.0,1931.46,4.4
+CUST00045,49,Female,Kolkata,494.1,30,10,103,20,Grocery,200.0,2274.6,2.7
+CUST00050,31,Female,Jaipur,441.0,44,14,7,26,Fashion & Apparel,200.0,3298.93,3.4
+CUST00850,32,Female,Ahmedabad,451.9,43,17,15,33,Sports & Fitness,200.0,3706.16,3.0
+CUST00241,64,Female,Hyderabad,439.4,37,12,162,32,Sports & Fitness,200.0,2555.71,2.9
+CUST00171,39,Male,Kolkata,1006.1,20,9,58,19,Home & Furniture,200.0,1473.97,3.4
+CUST00524,39,Male,Pune,876.1,89,19,7,54,Beauty & Personal Care,264.59,4305.08,4.3
+CUST00766,34,Female,Bengaluru,1032.1,76,31,28,48,Sports & Fitness,200.0,6607.99,3.7
+CUST00839,38,Female,Hyderabad,419.2,29,13,126,32,Sports & Fitness,200.0,2580.14,3.2
+CUST00424,29,Male,Kolkata,329.4,70,23,18,35,Fashion & Apparel,200.0,5169.83,3.8
+CUST00381,37,Female,Lucknow,1193.7,37,12,41,16,Fashion & Apparel,200.0,2835.78,3.1
+CUST00610,31,Female,Hyderabad,252.0,74,21,35,41,Electronics,200.0,3988.2,2.9
+CUST00677,48,Female,Ahmedabad,666.2,53,19,22,21,Grocery,200.0,3755.99,3.1
+CUST00345,27,Male,Mumbai,958.1,15,8,47,29,Home & Furniture,200.0,1680.34,3.0
+CUST00110,64,Male,Ahmedabad,747.3,47,22,130,41,Grocery,200.0,3633.32,4.1
+CUST00278,39,Male,Mumbai,611.6,50,19,12,13,Home & Furniture,200.0,3826.98,3.5
+CUST00678,41,Male,Jaipur,693.2,43,13,5,22,Books & Stationery,200.0,2964.56,2.9
+CUST00571,38,Male,Mumbai,1032.7,16,11,74,31,Home & Furniture,200.0,2091.54,2.6
+CUST00359,33,Male,Delhi,956.2,3,4,25,29,Home & Furniture,200.0,684.0,3.1
+CUST00599,32,Male,Mumbai,1629.9,20,4,186,18,Sports & Fitness,200.0,718.3,3.1
+CUST00391,31,Female,Jaipur,1201.3,27,17,16,18,Grocery,200.0,2876.46,3.3
+CUST00894,40,Female,Delhi,740.5,42,18,55,37,Home & Furniture,200.0,4088.84,4.1
+CUST00693,49,Male,Delhi,691.6,52,19,41,34,Beauty & Personal Care,202.36,3319.33,4.6
+CUST00728,41,Male,Mumbai,826.6,96,26,1,32,Home & Furniture,338.29,7174.33,4.4
+CUST00363,20,Male,Chennai,951.6,3,6,2,20,Books & Stationery,200.0,1205.28,2.3
+CUST00597,44,Female,Delhi,1503.8,24,12,31,25,Electronics,200.0,2423.62,3.3
+CUST00428,37,Male,Chennai,375.8,67,22,22,18,Books & Stationery,200.0,4881.09,3.3
+CUST00071,68,Male,Mumbai,626.4,54,21,8,40,Books & Stationery,200.0,4691.68,4.9
+CUST00322,38,Female,Kolkata,735.3,44,19,59,48,Fashion & Apparel,200.0,4558.57,2.5
+CUST00653,33,Female,Hyderabad,508.5,51,18,32,29,Grocery,200.0,2959.89,3.5
+CUST01066,18,Male,Ahmedabad,595.7,65,20,54,45,Home & Furniture,200.0,4380.81,4.0
+CUST00108,54,Male,Pune,,47,24,95,21,Books & Stationery,200.0,5582.31,2.6
+CUST01109,70,Male,Kolkata,788.3,45,17,65,23,Home & Furniture,200.0,3023.61,2.7
+CUST00356,27,Female,Pune,920.3,85,34,85,23,Electronics,200.0,7846.02,3.5
+CUST00951,41,Male,Jaipur,934.4,17,8,85,22,Grocery,200.0,1470.52,2.7
+CUST00343,28,Female,Chennai,917.9,38,8,28,24,Beauty & Personal Care,200.0,1412.29,3.5
+CUST00355,48,Female,Ahmedabad,901.6,19,5,28,31,Beauty & Personal Care,200.0,1173.19,2.8
+CUST00024,31,Male,Lucknow,319.6,72,16,4,45,Beauty & Personal Care,228.74,4031.14,3.9
+CUST00044,31,Female,Kolkata,454.7,63,15,185,40,Sports & Fitness,200.0,2435.04,4.1
+CUST00244,29,Female,Hyderabad,504.0,58,18,12,28,Books & Stationery,200.0,3901.82,3.0
+CUST00738,33,Male,Lucknow,847.0,76,18,27,32,Home & Furniture,200.0,3877.82,3.4
+CUST01136,31,Female,Hyderabad,878.1,84,26,28,40,Grocery,299.34,8528.43,3.2
+CUST00368,32,Female,Delhi,1036.1,100,29,9,51,Fashion & Apparel,226.26,7390.55,5.0
+CUST00164,30,Female,Mumbai,993.6,98,26,1,17,Home & Furniture,200.0,5137.2,5.0
+CUST01116,19,Female,Kolkata,789.2,49,18,73,20,Grocery,200.0,3951.61,3.2
+CUST00333,24,Female,Jaipur,888.5,39,11,101,35,Sports & Fitness,200.0,2279.54,3.2
+CUST00989,41,Female,Lucknow,1286.3,12,1,215,15,Fashion & Apparel,200.0,214.08,3.4
+CUST01173,36,Male,Delhi,1041.1,11,13,120,17,Fashion & Apparel,200.0,2087.92,2.5
+CUST01002,20,Male,Ahmedabad,175.6,83,24,71,37,Electronics,210.92,4809.15,3.9
+CUST00378,25,Male,Bengaluru,1081.7,68,30,16,35,Electronics,244.45,7942.12,4.9
+CUST00310,68,Male,Lucknow,759.3,48,14,29,18,Grocery,200.0,2990.81,4.0
+CUST00156,29,Female,Lucknow,947.7,88,26,5,37,Electronics,268.61,8064.73,5.0
+CUST00211,68,Male,Mumbai,217.5,9,8,23,12,Grocery,200.0,1333.87,3.0
+CUST00087,54,Female,Mumbai,650.8,58,14,5,35,Fashion & Apparel,200.0,2648.21,4.5
+CUST00169,36,Female,Ahmedabad,1075.1,22,8,96,27,Beauty & Personal Care,200.0,1664.75,2.8
+CUST00995,47,Female,Hyderabad,1444.3,18,10,163,10,Grocery,200.0,1872.1,3.1
+CUST00052,34,Male,Chennai,541.9,59,15,44,23,Sports & Fitness,200.0,2561.85,3.4
+CUST00439,35,Female,Hyderabad,444.2,30,12,45,28,Electronics,200.0,2439.31,2.4
+CUST00550,35,Male,Hyderabad,958.3,94,30,8,26,Grocery,236.58,7986.66,3.9
+CUST00491,69,Female,Jaipur,694.6,53,19,47,22,Beauty & Personal Care,200.0,4257.45,2.7
+CUST00426,29,Male,Ahmedabad,364.3,82,31,49,40,Beauty & Personal Care,200.0,5768.73,4.6
+CUST00136,28,Female,Ahmedabad,922.5,91,36,16,42,Fashion & Apparel,200.0,6051.96,4.2
+CUST01192,33,Female,Chennai,1253.6,73,19,13,39,Fashion & Apparel,204.68,3982.53,3.6
+CUST00055,49,Female,Bengaluru,497.9,44,20,172,36,Books & Stationery,200.0,4390.33,2.3
+CUST00079,24,Female,Mumbai,657.1,54,21,66,46,Beauty & Personal Care,200.0,4974.51,3.1
+CUST00431,59,Male,Lucknow,329.5,1,7,45,12,Home & Furniture,200.0,1174.59,2.9
+CUST00185,42,Female,Bengaluru,1144.2,40,20,70,19,Books & Stationery,200.0,4123.28,3.7
+CUST00057,51,Female,Mumbai,547.4,53,22,65,13,Home & Furniture,200.0,5267.36,3.3
+CUST00943,29,Female,Lucknow,979.6,45,19,71,26,Beauty & Personal Care,200.0,4266.06,3.6
+CUST00851,49,Female,Kolkata,523.2,55,16,22,29,Electronics,200.0,3211.75,2.4
+CUST01164,29,Female,Lucknow,984.0,92,24,45,27,Beauty & Personal Care,270.24,5754.33,4.2
+CUST00219,52,Male,Jaipur,300.3,27,10,65,31,Beauty & Personal Care,200.0,1737.65,2.4
+CUST00845,49,Female,Mumbai,433.5,29,17,109,31,Home & Furniture,200.0,2933.71,3.5
+CUST00114,18,Male,Pune,778.1,48,12,11,20,Books & Stationery,200.0,2496.84,3.6
+CUST00549,35,Female,Pune,923.7,24,12,31,48,Grocery,200.0,2508.11,3.6
+CUST01019,52,Male,Pune,,29,10,70,26,Beauty & Personal Care,200.0,2128.75,3.3
+CUST01073,60,Female,Pune,615.8,52,19,123,44,Electronics,200.0,3458.18,4.1
+CUST00175,50,Female,Mumbai,1055.4,13,3,6,22,Books & Stationery,200.0,678.79,3.1
+CUST01023,46,Female,Hyderabad,302.1,8,7,352,29,Books & Stationery,200.0,1147.53,3.6
+CUST00616,20,Male,Bengaluru,228.4,77,27,96,29,Beauty & Personal Care,200.0,4575.34,4.1
+CUST00514,19,Male,Jaipur,765.2,39,17,140,44,Grocery,200.0,3266.83,3.3
+CUST00462,18,Male,Bengaluru,524.5,57,26,165,9,Electronics,200.0,6135.43,3.3
+CUST00287,55,Female,Ahmedabad,706.0,53,16,20,32,Electronics,200.0,3234.04,3.6
+CUST00382,34,Female,Pune,1160.2,84,35,36,38,Grocery,224.8,7686.13,3.8
+CUST01008,23,Female,Lucknow,226.9,99,31,3,31,Fashion & Apparel,300.63,10783.75,4.6
+CUST00671,71,Male,Chennai,609.8,58,15,271,37,Home & Furniture,200.0,2669.37,2.8
+CUST00535,18,Male,Pune,863.1,3,8,35,23,Sports & Fitness,200.0,1524.99,3.4
+CUST00910,65,Male,Delhi,761.3,47,14,130,15,Fashion & Apparel,200.0,2827.73,3.0
+CUST00293,50,Male,Ahmedabad,704.4,49,19,79,30,Home & Furniture,200.0,4054.4,4.1
+CUST00124,41,Male,Hyderabad,788.9,86,21,63,42,Home & Furniture,208.27,4352.58,4.7
+CUST00583,46,Male,Chennai,1115.1,14,7,73,9,Beauty & Personal Care,200.0,1480.3,3.3
+CUST00141,57,Female,Mumbai,880.1,6,8,148,12,Sports & Fitness,200.0,1515.78,3.0
+CUST00736,29,Female,Delhi,916.1,85,24,54,29,Beauty & Personal Care,281.91,7186.7,4.2
+CUST00082,37,Male,Kolkata,593.7,52,23,3,34,Books & Stationery,226.76,4232.8,3.3
+CUST00882,39,Male,Kolkata,657.7,57,17,156,39,Home & Furniture,215.51,3845.05,3.8
+CUST00740,32,Female,Pune,868.0,78,35,68,27,Sports & Fitness,200.0,6231.36,4.1
+CUST01102,50,Female,Jaipur,721.7,52,20,11,19,Electronics,200.0,3306.38,2.9
+CUST00909,68,Male,Kolkata,736.0,40,13,210,31,Electronics,200.0,2189.86,4.1
+CUST01167,45,Male,Pune,1060.0,22,11,151,5,Electronics,200.0,1929.97,3.3
+CUST00937,43,Female,Pune,882.2,6,4,81,22,Sports & Fitness,200.0,950.54,3.1
+CUST00372,30,Male,Lucknow,1038.5,77,34,12,43,Sports & Fitness,250.17,10078.68,3.4
+CUST00890,48,Female,Bengaluru,707.7,43,11,105,19,Beauty & Personal Care,200.0,1761.12,3.6
+CUST00157,37,Male,Hyderabad,926.6,1,2,8,8,Fashion & Apparel,200.0,373.91,2.2
+CUST00992,34,Female,Kolkata,1212.7,64,20,19,28,Sports & Fitness,200.0,3270.54,3.3
+CUST00622,25,Male,Hyderabad,307.2,78,20,25,20,Home & Furniture,200.0,4257.33,4.1
+CUST01038,29,Female,Jaipur,405.7,73,23,15,34,Beauty & Personal Care,258.07,6241.57,5.0
+CUST00245,52,Female,,464.4,32,8,108,23,Beauty & Personal Care,200.0,1670.72,4.0
+CUST00159,33,Male,Lucknow,925.7,5,4,40,16,Home & Furniture,200.0,670.56,3.2
+CUST00746,29,Male,Jaipur,878.9,98,30,5,35,Fashion & Apparel,252.8,7727.88,4.7
+CUST00193,33,Male,Hyderabad,1342.4,9,5,141,31,Electronics,200.0,1090.75,3.3
+CUST00534,32,Female,Mumbai,828.0,74,27,224,25,Grocery,200.0,5507.37,4.3
+CUST00904,28,Male,Chennai,763.3,58,28,102,46,Grocery,200.0,5761.89,4.1
+CUST01004,24,Female,Jaipur,207.1,80,25,78,42,Beauty & Personal Care,200.0,4215.5,4.1
+CUST01070,32,Female,Hyderabad,564.6,50,17,180,27,Beauty & Personal Care,200.0,3437.53,2.0
+CUST00414,25,Female,Ahmedabad,242.0,75,24,14,25,Electronics,220.6,4346.05,4.0
+CUST01187,54,Female,Lucknow,1171.8,21,7,45,20,Electronics,200.0,1436.2,2.7
+CUST00328,40,Male,Jaipur,847.7,94,24,26,50,Sports & Fitness,308.49,8755.4,4.7
+CUST00129,58,Male,Ahmedabad,848.9,14,7,118,8,Electronics,200.0,1164.54,3.2
+CUST00695,31,Female,Lucknow,713.3,47,16,97,15,Grocery,200.0,2681.67,2.9
+CUST00631,62,Male,Jaipur,378.7,4,4,68,1,Books & Stationery,200.0,678.67,1.7
+CUST00275,61,Male,Lucknow,643.2,46,12,19,11,Grocery,200.0,2453.35,3.2
+CUST01148,32,Female,Delhi,906.7,77,35,64,42,Books & Stationery,262.63,9939.21,2.8
+CUST00309,69,Male,Jaipur,805.9,44,14,170,22,Books & Stationery,200.0,2492.95,4.0
+CUST00234,19,Male,Bengaluru,355.1,92,35,1,39,Electronics,202.97,7789.78,3.9
+CUST01048,28,Female,Mumbai,461.4,50,22,20,34,Home & Furniture,200.0,3974.27,3.5
+CUST00623,46,Female,Lucknow,330.5,6,6,206,19,Books & Stationery,200.0,1067.38,3.0
+CUST00644,31,Female,Mumbai,430.6,60,20,34,15,Books & Stationery,200.0,3558.95,4.0
+CUST00479,23,Female,,629.8,50,22,65,34,Beauty & Personal Care,200.0,4039.89,3.8
+CUST00472,47,Female,Delhi,548.0,40,22,21,32,Electronics,200.0,3927.33,4.0
+CUST00926,33,Female,Kolkata,844.8,78,18,15,29,Fashion & Apparel,203.97,3960.73,4.0
+CUST01098,28,Female,Hyderabad,701.2,53,18,32,31,Home & Furniture,200.0,3421.28,3.1
+CUST00627,45,Female,Mumbai,357.5,34,9,20,26,Fashion & Apparel,200.0,1710.41,2.5
+CUST00395,48,Female,Jaipur,1449.4,19,13,21,19,Fashion & Apparel,200.0,2101.36,1.9
+CUST00637,42,Female,Chennai,413.5,17,7,75,3,Sports & Fitness,200.0,1280.58,3.5
+CUST00768,32,Female,Lucknow,1029.8,93,26,50,42,Grocery,253.23,7358.78,3.9
+CUST00533,24,Female,Bengaluru,858.6,38,16,140,25,Grocery,200.0,2634.29,3.2
+CUST00718,50,Female,Hyderabad,805.6,59,21,62,17,Fashion & Apparel,200.0,3654.48,3.9
+CUST00667,41,Female,Hyderabad,570.8,51,17,66,49,Electronics,200.0,3394.8,4.4
+CUST00598,33,Male,Kolkata,1508.3,81,36,11,37,Electronics,244.14,7300.14,3.6
+CUST00482,40,Male,Bengaluru,622.4,58,16,83,27,Fashion & Apparel,200.0,3705.31,3.8
+CUST01103,68,Male,Ahmedabad,674.9,61,19,61,30,Beauty & Personal Care,200.0,3409.88,2.7
+CUST00315,19,Female,Pune,737.9,48,19,8,33,Home & Furniture,200.0,4522.02,3.1
+CUST00729,58,Male,Lucknow,873.7,9,12,244,12,Fashion & Apparel,200.0,2798.53,3.4
+CUST00210,30,Female,Bengaluru,240.8,68,23,2,21,Beauty & Personal Care,200.0,5314.85,4.2
+CUST00934,33,Female,Delhi,872.1,70,25,3,29,Books & Stationery,200.0,5737.41,4.5
+CUST00434,18,Male,Hyderabad,395.6,89,27,4,36,Sports & Fitness,252.24,6792.24,4.0
+CUST00329,58,Male,Bengaluru,798.6,17,9,128,25,Grocery,200.0,2091.37,3.4
+CUST00261,70,Male,Hyderabad,576.1,53,24,31,28,Grocery,200.0,3905.83,3.3
+CUST01117,64,Female,Bengaluru,772.8,44,22,42,36,Grocery,200.0,4345.67,2.9
+CUST00307,66,Female,Delhi,703.3,51,20,137,22,Beauty & Personal Care,200.0,4193.4,3.6
+CUST01067,42,Female,Bengaluru,,54,15,13,35,Books & Stationery,200.0,2488.82,3.3
+CUST00928,40,Male,Chennai,838.9,95,21,1,32,Beauty & Personal Care,241.22,4381.74,4.9
+CUST01025,51,Female,Kolkata,308.5,22,9,78,10,Electronics,200.0,1503.94,2.6
+CUST00271,69,Male,Jaipur,590.7,57,26,35,41,Home & Furniture,214.27,4916.21,3.5
+CUST00291,68,Female,Ahmedabad,692.6,51,16,66,38,Sports & Fitness,200.0,2880.77,3.6
+CUST00813,58,Female,Hyderabad,256.5,17,10,163,22,Electronics,200.0,1869.36,2.2
+CUST00097,45,Female,Hyderabad,680.6,47,24,12,24,Books & Stationery,200.0,5568.02,2.5
+CUST00888,21,Female,Chennai,672.3,58,12,1,34,Books & Stationery,200.0,2843.65,3.2
+CUST00819,52,Male,Mumbai,290.5,36,14,5,11,Sports & Fitness,200.0,2380.97,4.2
+CUST00032,21,Female,Jaipur,331.9,76,31,20,46,Electronics,200.0,6250.04,4.3
+CUST00763,20,Male,Pune,965.2,7,6,52,6,Home & Furniture,200.0,979.56,2.3
+CUST00954,37,Female,Bengaluru,909.1,74,27,5,29,Books & Stationery,251.28,5456.16,4.1
+CUST00320,49,Female,Pune,755.6,54,19,81,43,Sports & Fitness,205.27,4627.4,3.9
+CUST00299,46,Male,Chennai,749.8,43,14,13,26,Home & Furniture,200.0,3330.19,4.3
+CUST00200,30,Male,Lucknow,1608.8,86,31,9,43,Sports & Fitness,298.29,8430.74,4.1
+CUST00561,56,Female,Jaipur,918.6,31,17,126,7,Home & Furniture,200.0,4063.94,4.2
+CUST00179,59,Male,Pune,1123.3,18,19,221,25,Beauty & Personal Care,200.0,3514.31,2.8
+CUST01132,39,Male,Ahmedabad,813.2,74,35,160,43,Sports & Fitness,200.0,7968.78,4.2
+CUST00089,35,Female,Mumbai,746.1,64,12,9,20,Grocery,200.0,2715.47,3.7
+CUST00788,28,Male,Kolkata,1192.8,66,19,18,25,Grocery,270.0,5400.34,3.7
+CUST00725,22,Female,Ahmedabad,838.6,30,7,198,32,Electronics,200.0,1604.96,2.6
+CUST00827,45,Female,Delhi,350.1,29,9,27,37,Electronics,200.0,2026.25,3.1
+CUST00209,63,Male,Kolkata,227.8,5,5,173,31,Sports & Fitness,200.0,1108.34,2.6
+CUST01040,21,Female,Jaipur,436.4,81,30,10,32,Electronics,200.0,6363.33,4.0
+CUST00297,47,Female,Bengaluru,728.1,48,17,11,21,Fashion & Apparel,200.0,2963.41,3.3
+CUST00998,32,Male,Pune,1512.4,73,25,153,54,Books & Stationery,227.46,5272.26,3.7
+CUST00498,27,Female,Delhi,779.4,50,11,53,52,Grocery,200.0,2579.43,4.3
+CUST00835,48,Female,Delhi,398.8,13,9,120,29,Home & Furniture,200.0,1761.66,3.6
+CUST00430,23,Female,Bengaluru,374.9,94,30,9,50,Grocery,315.95,10329.26,3.8
+CUST00507,69,Female,Delhi,744.7,53,14,17,40,Books & Stationery,200.0,3355.26,3.5
+CUST00831,60,Male,Jaipur,392.7,3,6,25,15,Home & Furniture,200.0,1126.41,2.5
+CUST00694,37,Female,Delhi,666.1,38,15,50,32,Grocery,200.0,2526.92,4.3
+CUST00011,68,Male,Mumbai,250.2,11,7,365,33,Sports & Fitness,200.0,1499.18,2.8
+CUST00848,28,Female,Chennai,492.4,43,17,70,23,Electronics,200.0,2966.26,3.0
+CUST00463,65,Female,Jaipur,561.4,50,19,74,37,Fashion & Apparel,200.0,4169.63,4.3
+CUST00199,32,Male,Pune,1658.4,12,8,102,2,Sports & Fitness,200.0,1324.72,3.0
+CUST00060,54,Male,Pune,539.9,40,10,1,35,Sports & Fitness,200.0,2382.17,3.1
+CUST00907,66,Female,Hyderabad,791.0,51,16,124,33,Fashion & Apparel,200.0,3788.93,3.3
+CUST00997,46,Female,Lucknow,1507.5,25,11,153,27,Books & Stationery,200.0,2455.71,2.3
+CUST00276,26,Male,Delhi,643.9,55,15,90,29,Books & Stationery,200.0,2735.31,3.8
+CUST00809,64,Male,Delhi,257.7,6,5,217,1,Electronics,200.0,1013.28,
+CUST00908,52,Male,Lucknow,729.8,48,21,86,53,Sports & Fitness,200.0,3730.75,4.2
+CUST00658,69,Male,Kolkata,554.1,45,9,175,42,Books & Stationery,200.0,1727.68,3.7
+CUST00957,36,Male,Bengaluru,944.3,1,2,297,30,Beauty & Personal Care,200.0,406.82,2.7
+CUST00886,48,Male,Mumbai,667.4,49,16,8,17,Grocery,200.0,3374.48,3.3
+CUST00221,35,Male,Pune,282.6,33,14,80,28,Fashion & Apparel,200.0,2709.14,3.0
+CUST00789,40,Female,Pune,1215.8,16,11,51,20,Home & Furniture,200.0,2243.0,1.9
+CUST00712,20,Female,Hyderabad,768.7,58,16,178,16,Sports & Fitness,200.0,3400.5,3.2
+CUST00714,19,Male,Bengaluru,695.1,48,16,10,34,Electronics,200.0,2819.1,2.2
+CUST01113,37,Female,Kolkata,802.2,40,18,15,24,Sports & Fitness,200.0,3389.99,3.2
+CUST01191,36,Female,Lucknow,1187.0,23,6,15,33,Sports & Fitness,200.0,1196.28,3.3
+CUST00790,36,Female,Delhi,1202.0,81,22,181,30,Sports & Fitness,238.7,4210.47,3.9
+CUST00416,22,Male,Jaipur,253.3,77,22,31,48,Electronics,240.66,4542.44,3.5
+CUST00899,49,Male,Chennai,686.8,41,10,164,31,Electronics,200.0,2377.38,3.9
+CUST00935,20,Male,Hyderabad,856.0,5,5,133,29,Books & Stationery,200.0,1064.17,3.6
+CUST00266,19,Male,Bengaluru,577.0,59,26,72,36,Grocery,205.23,4563.56,2.8
+CUST00632,24,Female,Delhi,361.4,75,23,20,39,Sports & Fitness,200.0,3744.69,3.9
+CUST00248,29,Female,Hyderabad,517.9,45,22,293,28,Electronics,200.0,4755.39,4.2
+CUST00683,69,Male,Jaipur,636.6,42,16,2,20,Home & Furniture,200.0,3378.49,3.1
+CUST00559,33,Male,Pune,910.2,2,6,1,13,Grocery,200.0,963.82,2.6
+CUST01137,44,Female,Bengaluru,945.2,10,4,148,11,Books & Stationery,200.0,775.68,2.6
+CUST00968,32,Female,Delhi,989.3,94,27,4,30,Fashion & Apparel,311.58,7146.79,4.9
+CUST01005,31,Female,Mumbai,231.0,35,12,65,27,Beauty & Personal Care,200.0,2835.32,3.4
+CUST00985,41,Female,Ahmedabad,1144.5,39,16,66,36,Grocery,200.0,3738.67,3.7
+CUST00295,32,Female,Chennai,711.2,46,12,91,20,Electronics,200.0,2052.01,2.6
+CUST00520,52,Female,Lucknow,770.5,60,21,5,42,Books & Stationery,200.0,4323.16,3.8
+CUST00771,42,Male,Jaipur,1038.1,16,8,29,29,Grocery,200.0,1715.68,2.8
+CUST00084,46,Female,Mumbai,667.9,44,14,28,39,Electronics,200.0,2658.88,4.3
+CUST00232,20,Female,Hyderabad,336.8,70,26,20,20,Sports & Fitness,200.0,5309.93,3.0
+CUST00621,34,Male,Pune,235.3,31,15,188,13,Grocery,200.0,3020.13,3.1
+CUST00334,30,Female,Lucknow,834.9,70,24,14,37,Beauty & Personal Care,200.0,3997.67,3.7
+CUST00130,37,Male,Pune,870.6,73,25,36,26,Books & Stationery,230.27,5538.55,3.6
+CUST01012,37,Female,Delhi,252.5,93,28,1,59,Grocery,239.37,7740.92,4.1
+CUST00645,49,Female,Hyderabad,435.2,29,6,64,33,Home & Furniture,200.0,1376.88,2.9
+CUST00974,37,Male,Delhi,1013.6,90,31,22,35,Sports & Fitness,232.32,7366.02,4.0
+CUST00383,44,Male,Bengaluru,1189.8,17,8,182,11,Beauty & Personal Care,200.0,1615.32,2.8
+CUST00868,68,Female,Mumbai,575.2,48,15,1,27,Grocery,200.0,3455.14,3.6
+CUST00543,28,Female,Hyderabad,924.7,40,17,107,26,Grocery,200.0,3100.51,2.1
+CUST01194,39,Female,Delhi,1363.7,92,27,55,28,Fashion & Apparel,320.92,8566.53,3.6
+CUST00875,57,Male,Pune,649.4,41,11,28,43,Home & Furniture,200.0,2588.86,3.6
+CUST00332,40,Male,Jaipur,859.7,71,31,58,35,Sports & Fitness,200.0,7154.34,4.0
+CUST00410,28,Female,Ahmedabad,218.4,68,23,29,27,Home & Furniture,200.0,3901.56,4.4
+CUST00077,44,Female,Bengaluru,633.0,47,18,141,25,Home & Furniture,200.0,3863.92,3.2
+CUST00869,18,Male,Hyderabad,589.3,58,23,9,25,Home & Furniture,200.0,4876.84,3.2
+CUST00139,21,Male,Kolkata,955.8,12,5,72,3,Grocery,200.0,837.93,2.4
+CUST00544,32,Female,Ahmedabad,879.2,86,18,14,38,Grocery,239.73,3982.06,3.9
+CUST00674,58,Female,Delhi,570.1,58,12,37,24,Books & Stationery,204.12,2791.92,4.6
+CUST00921,27,Male,Jaipur,817.9,51,26,24,16,Books & Stationery,200.0,4628.97,3.7
+CUST00064,55,Female,Lucknow,552.8,55,14,30,28,Sports & Fitness,200.0,2294.94,3.0
+CUST00142,31,Male,Hyderabad,910.7,94,16,4,34,Electronics,234.03,3362.35,4.3
+CUST00717,61,Female,Jaipur,764.6,41,22,54,27,Books & Stationery,200.0,5037.04,3.7
+CUST00377,58,Male,Ahmedabad,1056.7,17,12,8,23,Beauty & Personal Care,200.0,2146.39,2.8
+CUST00364,30,Female,Pune,943.3,96,32,10,46,Fashion & Apparel,225.58,6022.59,3.8
+CUST00140,38,Female,Bengaluru,882.7,74,14,77,27,Sports & Fitness,227.52,3552.3,3.2
+CUST00885,20,Female,Bengaluru,673.6,55,25,12,18,Fashion & Apparel,200.0,4942.56,3.1
+CUST01042,25,Male,Pune,435.9,92,32,14,28,Electronics,299.51,9282.41,3.8
+CUST00225,54,Female,Hyderabad,340.5,12,7,74,21,Sports & Fitness,200.0,1408.19,2.5
+CUST00515,19,Female,Pune,754.7,49,20,66,36,Grocery,200.0,3374.83,3.1
+CUST00267,43,Female,Chennai,543.8,49,17,242,23,Home & Furniture,200.0,3319.23,3.5
+CUST01170,32,Male,Lucknow,1063.7,66,20,3,42,Fashion & Apparel,200.0,3820.56,4.7
+CUST00487,54,Female,Lucknow,670.5,60,17,47,42,Books & Stationery,200.0,3400.9,4.4
+CUST00353,43,Female,Mumbai,921.5,15,7,130,2,Books & Stationery,200.0,1572.14,3.0
+CUST01006,22,Female,Chennai,196.6,72,29,10,32,Electronics,200.0,6742.42,3.5
+CUST00618,20,Male,Lucknow,275.3,69,20,27,41,Sports & Fitness,200.0,4309.33,3.2
+CUST00668,69,Female,Chennai,593.0,49,18,106,27,Home & Furniture,200.0,3535.3,3.3
+CUST00775,52,Female,Chennai,1022.5,15,6,13,1,Grocery,200.0,1099.86,3.4
+CUST00554,40,Female,Mumbai,921.9,68,22,14,41,Sports & Fitness,201.02,3541.0,
+CUST00576,28,Female,Jaipur,1063.4,87,28,3,69,Sports & Fitness,260.53,5906.68,4.4
+CUST00915,19,Female,Ahmedabad,792.2,51,17,63,28,Electronics,200.0,3733.98,4.2
+CUST00466,18,Male,Pune,558.6,55,20,35,14,Electronics,200.0,3559.58,3.2
+CUST00591,33,Female,Jaipur,1194.5,25,13,151,40,Sports & Fitness,200.0,3007.41,2.8
+CUST00765,50,Male,Bengaluru,1001.6,24,15,217,20,Sports & Fitness,200.0,3566.03,2.9
+CUST00635,49,Female,Hyderabad,410.5,17,13,150,17,Home & Furniture,200.0,2712.54,2.6
+CUST00838,32,Female,,432.9,75,21,5,46,Grocery,200.0,3987.33,4.0
+CUST00290,50,Female,Chennai,700.5,40,14,1,28,Fashion & Apparel,200.0,3295.24,3.1
+CUST00040,21,Female,Pune,482.8,75,25,5,43,Sports & Fitness,200.0,4325.05,3.5
+CUST00031,63,Male,Bengaluru,346.3,1,5,114,18,Fashion & Apparel,200.0,917.02,3.1
+CUST00243,46,Male,Mumbai,433.2,33,13,116,22,Beauty & Personal Care,200.0,2562.48,3.3
+CUST00429,38,Female,Bengaluru,357.4,26,10,184,29,Electronics,200.0,1709.59,2.4
+CUST00137,44,Female,Ahmedabad,887.7,4,5,365,20,Sports & Fitness,200.0,1173.62,3.7
+CUST01101,24,Female,Delhi,731.7,40,16,91,8,Grocery,200.0,3797.01,3.9
+CUST00865,62,Male,Jaipur,568.3,50,28,41,17,Grocery,200.0,4769.42,4.4
+CUST00004,24,Female,Mumbai,189.4,75,34,25,31,Electronics,200.0,6776.14,3.1
+CUST00833,52,Male,Chennai,412.5,1,3,200,29,Grocery,200.0,513.6,3.2
+CUST00603,22,Female,Chennai,184.4,12,2,39,14,Beauty & Personal Care,200.0,366.71,2.3
+CUST01034,19,Male,Ahmedabad,435.6,92,30,49,36,Sports & Fitness,200.0,4801.08,3.5
+CUST00655,51,Female,Mumbai,527.9,44,11,214,35,Beauty & Personal Care,200.0,1913.54,3.9
+CUST00844,31,Female,Ahmedabad,448.9,62,29,35,24,Fashion & Apparel,200.0,5344.81,4.5
+CUST00784,30,Female,Chennai,1169.7,90,32,3,34,Fashion & Apparel,256.15,7569.51,
+CUST01074,58,Female,Kolkata,622.7,58,21,163,29,Books & Stationery,200.0,4672.83,
+CUST00443,48,Male,Chennai,407.6,38,5,22,27,Electronics,200.0,956.81,3.7
+CUST01178,27,Male,Bengaluru,1038.5,70,25,25,22,Grocery,200.0,4620.24,3.2
+CUST00436,20,Female,Lucknow,423.1,81,38,1,25,Books & Stationery,200.0,6631.34,4.5
+CUST01169,36,Female,Delhi,1021.9,28,13,301,29,Fashion & Apparel,200.0,3004.14,2.3
+CUST00101,23,Female,Mumbai,745.3,43,21,101,28,Electronics,200.0,3549.93,3.4
+CUST00773,36,Male,Jaipur,1046.6,13,7,195,13,Books & Stationery,200.0,1234.76,3.9
+CUST00495,32,Female,Pune,688.8,40,16,7,30,Grocery,200.0,3609.3,3.7
+CUST01028,35,Male,Mumbai,350.5,63,18,73,21,Sports & Fitness,200.0,3230.07,3.0
+CUST00807,35,Female,Pune,213.6,7,8,118,17,Beauty & Personal Care,200.0,1677.04,2.5
+CUST01142,29,Male,Chennai,895.2,94,27,3,24,Grocery,281.71,7943.76,4.4
+CUST00846,24,Female,Lucknow,443.1,66,25,65,25,Beauty & Personal Care,200.0,4791.58,3.7
+CUST00987,52,Female,Pune,1209.0,24,13,108,32,Home & Furniture,200.0,2138.39,3.0
+CUST00228,37,Male,Hyderabad,359.0,65,12,55,45,Home & Furniture,200.0,2150.13,4.7
+CUST01193,33,Male,Mumbai,1314.5,13,4,161,30,Electronics,200.0,877.61,2.9
+CUST00672,47,Female,Lucknow,574.0,43,17,27,25,Books & Stationery,200.0,3685.46,3.4
+CUST00859,25,Female,Bengaluru,536.9,48,21,66,26,Fashion & Apparel,200.0,4578.13,3.5
+CUST00925,23,Female,Jaipur,5035.799999999999,32,10,83,33,Electronics,200.0,2247.39,3.1
+CUST00067,43,Female,Pune,555.1,49,20,47,27,Beauty & Personal Care,200.0,4440.11,2.9
+CUST00068,67,Female,Hyderabad,592.6,52,13,60,15,Fashion & Apparel,200.0,2892.94,3.5
+CUST00817,35,Female,Bengaluru,251.3,31,10,50,21,Home & Furniture,200.0,2272.37,2.9
+CUST00212,33,Female,Chennai,283.7,100,29,5,42,Grocery,200.0,6257.48,4.3
+CUST00013,58,Female,Ahmedabad,235.4,10,5,109,5,Home & Furniture,200.0,864.07,2.2
+CUST00494,41,Female,Mumbai,706.7,38,19,81,38,Beauty & Personal Care,200.0,4342.39,3.5
+CUST01165,49,Male,Jaipur,1083.3,30,9,47,20,Electronics,200.0,1442.18,2.6
+CUST00300,20,Male,Hyderabad,702.5,46,15,53,23,Books & Stationery,200.0,3452.69,3.7
+CUST00411,65,Male,Lucknow,235.2,12,4,98,17,Fashion & Apparel,200.0,849.42,2.6
+CUST00757,36,Male,Ahmedabad,958.7,9,6,59,16,Grocery,200.0,1158.18,3.6
+CUST01075,58,Male,Chennai,651.2,43,15,91,21,Home & Furniture,200.0,2699.2,3.1
+CUST00696,23,Male,Hyderabad,705.5,49,19,267,18,Grocery,200.0,4041.88,3.0
+CUST01151,43,Male,Mumbai,952.3,15,11,69,21,Home & Furniture,200.0,2189.91,3.3
+CUST00724,37,Male,Mumbai,856.2,93,29,21,30,Beauty & Personal Care,309.72,7995.25,3.9
+CUST01016,21,Male,Kolkata,240.3,79,31,30,39,Beauty & Personal Care,213.25,5523.68,3.3
+CUST00528,40,Male,Chennai,838.8,96,25,14,36,Books & Stationery,244.2,5116.74,4.4
+CUST00600,28,Male,Delhi,1632.9,82,23,25,35,Books & Stationery,200.0,5303.84,4.5
+CUST01120,49,Female,Kolkata,797.2,59,23,16,29,Beauty & Personal Care,200.0,4915.2,3.5
+CUST00567,42,Male,Bengaluru,1001.6,24,7,91,3,Grocery,200.0,1260.39,2.8
+CUST00731,48,Male,Lucknow,809.0,11,4,138,21,Beauty & Personal Care,200.0,801.22,4.0
+CUST00274,63,Female,Kolkata,543.5,57,19,30,21,Grocery,200.0,4213.33,3.9
+CUST00967,42,Male,Ahmedabad,1102.3,20,11,38,18,Beauty & Personal Care,200.0,2596.13,2.6
+CUST00238,30,Female,Bengaluru,334.1,72,19,30,26,Home & Furniture,200.0,4232.05,4.4
+CUST00406,22,Female,Hyderabad,238.0,76,30,10,28,Home & Furniture,200.0,5389.83,3.7
+CUST00003,21,Female,Ahmedabad,202.5,7,6,18,17,Fashion & Apparel,200.0,1237.59,3.1
+CUST00007,35,Female,Hyderabad,198.2,7,8,8,29,Sports & Fitness,200.0,1359.75,3.1
+CUST00312,20,Female,Mumbai,769.7,56,14,131,12,Home & Furniture,200.0,2261.69,4.1
+CUST01091,67,Female,Lucknow,719.2,51,21,6,29,Grocery,200.0,5010.03,3.8
+CUST00452,33,Male,Delhi,535.8,64,25,5,36,Beauty & Personal Care,200.0,5266.19,3.6
+CUST00722,39,Female,Pune,829.7,41,23,5,35,Home & Furniture,200.0,4869.47,4.1
+CUST00216,23,Male,Lucknow,218.7,77,32,56,24,Home & Furniture,200.0,7676.81,3.6
+CUST01086,48,Male,Lucknow,657.1,49,20,142,36,Electronics,200.0,3275.79,2.8
+CUST00028,35,Male,Mumbai,321.6,59,23,22,37,Grocery,200.0,5067.77,3.8
+CUST01158,32,Female,Mumbai,944.1,79,31,101,32,Beauty & Personal Care,200.0,7376.19,4.2
+CUST00362,29,Female,Chennai,951.5,78,27,10,16,Home & Furniture,243.41,5341.21,3.9
+CUST00823,45,Female,Jaipur,303.2,1,3,13,24,Beauty & Personal Care,200.0,623.61,2.8
+CUST00781,37,Female,Lucknow,1168.3,29,7,43,40,Fashion & Apparel,200.0,1248.43,3.6
+CUST00629,39,Female,Hyderabad,326.1,28,10,88,31,Fashion & Apparel,200.0,2322.35,3.4
+CUST00454,61,Male,Pune,,61,16,111,56,Books & Stationery,200.0,2626.25,3.0
+CUST00739,18,Male,Pune,871.1,12,9,102,19,Grocery,200.0,2103.09,3.0
+CUST00536,30,Female,Pune,898.9,80,22,114,49,Books & Stationery,251.61,5457.81,4.3
+CUST01050,32,Female,Hyderabad,509.1,42,21,82,28,Electronics,200.0,3375.6,3.9
+CUST00399,33,Male,Lucknow,1683.4,20,6,365,19,Beauty & Personal Care,200.0,1283.78,3.5
+CUST00257,52,Female,Pune,585.5,51,19,57,8,Grocery,200.0,4159.97,3.0
+CUST00292,18,Male,Bengaluru,707.4,38,14,29,24,Electronics,200.0,3137.15,3.6
+CUST00026,29,Male,Chennai,349.1,85,30,40,48,Home & Furniture,200.0,6590.52,4.0
+CUST00337,43,Female,Chennai,894.7,4,9,365,25,Electronics,200.0,1517.76,2.8
+CUST00585,42,Female,Pune,1205.2,35,13,224,9,Grocery,200.0,2904.46,3.0
+CUST00048,27,Female,Kolkata,434.8,46,13,36,15,Electronics,200.0,2335.35,3.4
+CUST00319,52,Female,Ahmedabad,796.1,46,15,65,24,Home & Furniture,200.0,3263.21,3.2
+CUST00107,65,Female,Delhi,731.1,55,18,53,35,Books & Stationery,200.0,4108.16,3.0
+CUST00799,33,Male,Hyderabad,1630.7,21,5,246,17,Sports & Fitness,200.0,934.21,3.5
+CUST00056,46,Male,Hyderabad,500.3,41,14,152,48,Books & Stationery,200.0,3339.16,3.2
+CUST00523,42,Female,Delhi,811.4,54,20,74,34,Grocery,261.37,4788.1,3.7
+CUST00214,23,Female,Bengaluru,271.5,76,27,73,42,Home & Furniture,200.0,5559.09,4.0
+CUST00121,26,Male,Bengaluru,785.0,55,19,21,37,Fashion & Apparel,200.0,4547.69,3.5
+CUST00918,50,Female,Hyderabad,,57,30,25,44,Fashion & Apparel,200.0,6523.41,3.6
+CUST01068,69,Female,Ahmedabad,570.6,42,16,16,27,Electronics,200.0,2640.99,
+CUST01118,49,Female,Chennai,790.1,59,19,18,26,Grocery,200.0,3110.41,2.8
+CUST00073,59,Female,Bengaluru,590.6,50,26,29,11,Grocery,200.0,6051.42,3.7
+CUST00948,28,Female,Mumbai,947.4,75,32,9,31,Grocery,200.0,7323.2,5.0
+CUST00747,50,Male,Pune,905.2,39,14,4,45,Sports & Fitness,200.0,3122.22,1.9
+CUST00716,18,Female,Mumbai,703.8,52,17,3,21,Beauty & Personal Care,200.0,3846.63,3.3
+CUST00558,29,Female,Lucknow,992.7,78,27,19,28,Grocery,239.98,7376.73,4.5
+CUST01082,38,Male,Delhi,648.3,58,29,22,23,Grocery,200.0,5186.38,3.1
+CUST01046,23,Female,Pune,452.5,64,23,77,30,Sports & Fitness,224.28,5182.25,3.1
+CUST00553,44,Female,Pune,919.6,19,8,27,19,Fashion & Apparel,200.0,1791.05,3.3
+CUST00562,29,Female,Hyderabad,928.6,83,27,127,24,Electronics,230.97,6191.34,4.1
+CUST00425,53,Female,Chennai,340.8,14,9,50,11,Beauty & Personal Care,200.0,2054.97,2.4
+CUST01014,22,Female,Ahmedabad,284.5,76,24,20,19,Fashion & Apparel,200.0,4262.3,3.8
+CUST00326,32,Female,Chennai,,76,21,82,16,Home & Furniture,200.0,4440.39,3.9
+CUST00924,38,Male,Lucknow,829.7,93,38,46,39,Home & Furniture,294.17,11875.16,4.0
+CUST00317,63,Female,Chennai,762.1,43,15,15,44,Electronics,200.0,3305.67,3.1
+CUST00804,23,Female,Mumbai,198.3,80,37,23,35,Books & Stationery,241.67,7208.84,4.9
+CUST01163,19,Male,Lucknow,963.2,1,6,33,4,Books & Stationery,200.0,1238.6,2.1
+CUST00529,59,Male,Jaipur,853.8,7,1,183,15,Beauty & Personal Care,200.0,172.18,1.9
+CUST00837,42,Female,Lucknow,396.4,20,11,187,14,Sports & Fitness,200.0,1905.51,3.0
+CUST00715,18,Female,Ahmedabad,809.8,49,22,40,45,Fashion & Apparel,200.0,4149.51,3.4
+CUST00901,23,Female,Kolkata,750.4,43,17,151,25,Sports & Fitness,200.0,3378.34,3.4
+CUST00061,68,Male,Jaipur,577.0,52,20,86,19,Books & Stationery,200.0,3724.5,3.5
+CUST00723,37,Female,Jaipur,780.0,60,23,48,40,Books & Stationery,200.0,4316.4,3.3
+CUST00093,47,Male,Ahmedabad,710.1,51,15,160,36,Home & Furniture,200.0,3333.53,3.7
+CUST00858,70,Male,Pune,482.7,51,20,94,36,Electronics,200.0,3624.7,2.5
+CUST00619,51,Male,Hyderabad,288.1,30,18,81,25,Sports & Fitness,200.0,4052.92,2.5
+CUST00352,40,Male,Kolkata,917.9,87,36,30,39,Beauty & Personal Care,229.5,7436.75,4.7
+CUST00933,26,Female,Jaipur,854.5,28,8,15,4,Grocery,200.0,1685.75,3.7
+CUST00281,58,Male,Chennai,659.2,55,19,3,23,Electronics,200.0,4481.45,3.1
+CUST00421,35,Male,Hyderabad,302.4,30,8,101,13,Beauty & Personal Care,200.0,1320.66,2.5
+CUST01115,18,Female,Hyderabad,792.4,49,18,43,20,Books & Stationery,220.24,3384.49,3.3
+CUST00360,30,Female,Ahmedabad,932.4,76,18,55,34,Grocery,200.0,4199.51,4.1
+CUST00423,45,Female,Jaipur,319.0,7,5,84,39,Beauty & Personal Care,200.0,1129.89,3.0
+CUST00679,23,Female,Bengaluru,683.6,48,15,22,15,Beauty & Personal Care,202.61,3604.57,4.0
+CUST00527,45,Male,Ahmedabad,828.5,37,24,4,25,Electronics,200.0,5497.36,3.0
+CUST00478,39,Male,Lucknow,657.1,46,23,130,37,Fashion & Apparel,200.0,4803.22,3.6
+CUST01095,31,Female,Jaipur,749.1,46,18,40,52,Home & Furniture,200.0,3321.44,2.7
+CUST00183,46,Male,Ahmedabad,1168.1,15,6,86,21,Beauty & Personal Care,200.0,1056.11,2.6
+CUST01092,18,Male,Delhi,736.5,38,11,21,12,Fashion & Apparel,200.0,2560.94,4.4
+CUST00433,53,Male,Delhi,399.6,7,10,49,7,Beauty & Personal Care,200.0,2109.85,3.1
+CUST00111,66,Male,Lucknow,726.5,50,22,6,36,Beauty & Personal Care,200.0,4852.07,3.5
+CUST00371,40,Male,Pune,1044.6,16,10,274,24,Beauty & Personal Care,200.0,2111.23,2.9
+CUST00240,19,Female,Lucknow,472.0,73,31,2,48,Beauty & Personal Care,200.0,6608.6,3.0
+CUST00709,68,Male,Kolkata,744.3,39,6,115,28,Grocery,200.0,1403.96,3.0
+CUST00630,20,Female,Jaipur,342.3,88,26,21,43,Sports & Fitness,303.78,7066.75,4.0
+CUST00594,36,Female,Jaipur,1348.5,98,31,27,39,Beauty & Personal Care,248.52,8024.54,
+CUST00486,48,Male,Hyderabad,664.0,47,16,150,40,Home & Furniture,200.0,3108.67,3.9
+CUST00701,24,Female,Pune,730.1,38,15,8,25,Home & Furniture,200.0,3000.73,4.3
+CUST00262,19,Male,Chennai,533.9,53,22,188,5,Grocery,200.0,4520.76,4.5
+CUST00480,52,Female,Lucknow,641.0,43,17,40,11,Sports & Fitness,200.0,3704.78,3.9
+CUST00650,31,Female,Ahmedabad,496.5,46,9,48,33,Sports & Fitness,200.0,1663.84,3.7
+CUST00340,36,Female,Kolkata,925.9,76,30,35,60,Home & Furniture,200.0,6458.05,4.2
+CUST00669,18,Male,Jaipur,566.7,65,20,31,18,Fashion & Apparel,214.77,4321.46,3.8
+CUST00552,40,Male,Mumbai,920.5,90,31,17,28,Beauty & Personal Care,219.47,7781.92,3.6
+CUST00459,27,Female,Jaipur,570.8,50,23,107,30,Electronics,200.0,5013.03,3.6
+CUST00184,30,Female,Lucknow,1171.9,89,21,21,42,Electronics,216.79,4789.79,4.0
+CUST00138,33,Male,Delhi,892.4,68,19,16,32,Sports & Fitness,200.0,4031.48,4.2
+CUST01161,55,Female,Chennai,987.2,37,10,33,10,Sports & Fitness,200.0,2020.79,3.1
+CUST00707,65,Female,Mumbai,756.8,52,24,27,20,Grocery,200.0,5349.41,3.1
+CUST00582,31,Female,Bengaluru,1166.4,91,29,17,39,Books & Stationery,340.65,10179.95,3.7
+CUST00081,58,Male,Pune,677.8,56,16,9,22,Beauty & Personal Care,236.33,3771.65,4.1
+CUST00769,34,Female,Jaipur,1033.2,24,15,27,41,Books & Stationery,200.0,3010.25,3.7
+CUST00870,32,Female,Delhi,571.1,45,16,127,39,Fashion & Apparel,200.0,3298.38,3.7
+CUST00762,30,Female,Lucknow,932.0,85,34,5,36,Electronics,216.33,7634.14,4.5
+CUST00030,24,Female,Ahmedabad,2173.2,92,26,32,38,Beauty & Personal Care,251.11,6435.02,3.9
+CUST00542,31,Male,Mumbai,936.9,97,28,15,42,Beauty & Personal Care,323.87,10801.85,4.8
+CUST00166,35,Female,Pune,1029.4,72,25,5,21,Sports & Fitness,200.0,5041.06,4.5
+CUST00249,32,Female,Bengaluru,472.3,43,12,35,32,Beauty & Personal Care,200.0,2540.16,3.4
+CUST00308,56,Male,Delhi,754.9,37,16,85,43,Sports & Fitness,200.0,3271.92,3.6
+CUST00448,27,Female,,509.2,45,15,66,13,Books & Stationery,200.0,3577.65,2.8
+CUST00347,47,Male,Jaipur,879.5,39,11,102,26,Sports & Fitness,200.0,1923.82,3.4
+CUST00335,20,Male,Kolkata,926.2,5,9,68,18,Electronics,200.0,1555.77,2.4
+CUST00286,47,Male,Lucknow,627.8,46,16,251,28,Grocery,200.0,3254.64,4.1
+CUST00950,30,Male,Kolkata,939.2,87,34,6,32,Home & Furniture,200.0,6455.29,4.3
+CUST00098,26,Female,Hyderabad,703.5,43,20,79,21,Fashion & Apparel,200.0,3827.12,3.6
+CUST00468,70,Female,Mumbai,576.0,53,16,34,25,Books & Stationery,200.0,3775.06,3.4
+CUST01037,43,Female,Ahmedabad,407.0,15,6,73,36,Sports & Fitness,200.0,1287.59,2.7
+CUST00913,39,Female,Bengaluru,790.8,41,18,38,38,Electronics,200.0,4032.23,4.6
+CUST00756,28,Female,Kolkata,910.4,87,24,50,35,Home & Furniture,237.7,5851.44,3.9
+CUST00945,25,Male,Pune,906.0,8,6,352,8,Sports & Fitness,200.0,1096.59,2.9
+CUST00614,25,Female,Pune,239.8,77,19,22,29,Grocery,200.0,4222.07,4.9
+CUST00802,20,Male,Ahmedabad,163.4,84,21,9,38,Sports & Fitness,223.12,4016.6,3.9
+CUST00758,31,Female,Hyderabad,905.9,77,27,2,36,Fashion & Apparel,200.0,4553.19,4.2
+CUST00689,33,Female,Delhi,657.0,60,18,17,32,Sports & Fitness,202.22,2964.59,3.8
+CUST00066,19,Male,Pune,573.1,57,23,32,34,Home & Furniture,200.0,5515.03,4.1
+CUST00794,38,Female,Ahmedabad,1380.1,87,27,19,10,Electronics,283.02,8192.77,4.7
+CUST00744,30,Female,Pune,857.5,88,27,22,26,Fashion & Apparel,264.62,7428.13,5.0
+CUST00568,32,Female,Pune,1053.1,93,33,9,23,Electronics,200.0,6882.95,3.7
+CUST01084,46,Female,Delhi,654.9,48,16,83,30,Beauty & Personal Care,200.0,2961.44,3.5
+CUST01099,49,Male,Bengaluru,719.3,41,18,15,27,Home & Furniture,200.0,4196.26,3.0
+CUST00303,68,Male,Ahmedabad,777.1,62,29,13,14,Electronics,200.0,5004.84,4.2
+CUST00255,50,Female,Kolkata,552.7,45,26,15,33,Fashion & Apparel,200.0,5326.98,3.7
+CUST00959,34,Male,Chennai,952.9,1,1,7,13,Beauty & Personal Care,200.0,184.99,3.2
+CUST01024,32,Male,Kolkata,280.1,70,22,41,20,Home & Furniture,200.0,3598.52,3.6
+CUST00313,40,Female,Jaipur,790.4,42,12,29,41,Home & Furniture,200.0,1999.12,3.0
+CUST00530,40,Male,Jaipur,852.9,74,24,157,35,Sports & Fitness,218.33,5130.72,2.8
+CUST00222,25,Male,Ahmedabad,282.8,71,23,44,36,Grocery,201.59,4620.33,4.7
+CUST00389,41,Female,Mumbai,1211.4,15,8,30,13,Beauty & Personal Care,200.0,1374.55,3.3
+CUST00236,20,Female,Delhi,393.9,85,23,32,41,Beauty & Personal Care,226.23,5338.64,3.0
+CUST00810,30,Female,Hyderabad,243.6,70,20,33,29,Home & Furniture,200.0,4356.44,4.1
+CUST00483,67,Male,,634.6,43,17,56,34,Books & Stationery,200.0,2857.24,3.2
+CUST00713,37,Female,Mumbai,781.8,47,15,26,35,Fashion & Apparel,200.0,2699.68,3.2
+CUST00306,20,Female,Delhi,756.5,41,10,73,34,Books & Stationery,200.0,1761.05,3.0
+CUST01111,67,Male,Mumbai,776.7,54,16,63,35,Fashion & Apparel,211.65,3862.89,3.6
+CUST01090,50,Female,Ahmedabad,656.5,45,27,187,34,Grocery,200.0,6026.85,3.6
+CUST00772,30,Male,Chennai,1036.3,77,22,103,30,Fashion & Apparel,200.0,4398.86,4.1
+CUST00917,65,Female,Mumbai,781.6,43,11,10,20,Books & Stationery,200.0,1914.01,
+CUST01139,19,Male,Pune,914.2,13,6,292,22,Fashion & Apparel,200.0,1433.94,3.4
+CUST00250,30,Female,Pune,465.2,49,18,175,10,Fashion & Apparel,200.0,3372.84,3.7
+CUST00760,31,Female,Mumbai,921.3,71,29,47,18,Books & Stationery,200.0,5114.85,3.6
+CUST00595,45,Female,Bengaluru,1393.7,15,11,284,20,Home & Furniture,200.0,2145.81,2.9
+CUST00072,46,Female,Pune,624.2,41,10,1,18,Books & Stationery,200.0,2077.73,3.1
+CUST00095,30,Female,Bengaluru,726.4,45,17,69,30,Home & Furniture,200.0,3004.69,3.2
+CUST00546,28,Male,Bengaluru,904.6,98,30,13,37,Grocery,228.13,7542.43,4.0
+CUST00034,18,Male,Chennai,398.2,92,28,3,38,Fashion & Apparel,228.57,6365.85,4.4
+CUST00862,18,Male,Ahmedabad,595.1,52,18,78,26,Electronics,200.0,3329.02,3.4
+CUST00579,59,Male,Kolkata,1088.0,12,10,185,1,Home & Furniture,200.0,2127.61,3.7
+CUST00449,30,Female,Bengaluru,475.5,44,21,28,27,Books & Stationery,200.0,3975.56,3.7
+CUST00446,22,Female,Mumbai,469.3,62,25,53,34,Grocery,200.0,5013.6,3.6
+CUST00260,51,Male,Pune,560.9,47,14,3,36,Sports & Fitness,200.0,2301.74,2.7
+CUST00205,29,Female,Bengaluru,189.5,44,9,162,18,Sports & Fitness,200.0,1629.05,2.8
+CUST00573,36,Male,Kolkata,1011.6,10,5,257,26,Books & Stationery,200.0,870.49,3.5
+CUST00824,28,Male,Pune,298.3,67,24,27,37,Sports & Fitness,200.0,5006.57,3.1
+CUST00586,32,Male,Delhi,1218.3,96,27,19,51,Electronics,260.98,7510.96,3.3
+CUST00366,38,Female,Hyderabad,1004.1,73,26,23,45,Fashion & Apparel,200.0,5218.64,4.0
+CUST00812,34,Female,Ahmedabad,272.4,99,25,24,25,Beauty & Personal Care,297.09,8866.42,4.0
+CUST00078,40,Male,Hyderabad,688.5,49,16,13,19,Grocery,200.0,3568.31,3.5
+CUST00085,20,Female,Pune,649.5,57,28,59,35,Home & Furniture,203.16,5901.93,3.2
+CUST00539,18,Male,Lucknow,867.5,9,8,9,23,Electronics,200.0,1420.98,2.9
+CUST00083,67,Male,Bengaluru,597.6,42,8,2,7,Fashion & Apparel,200.0,1441.91,2.1
+CUST00458,68,Male,Ahmedabad,484.0,46,16,60,29,Beauty & Personal Care,200.0,3322.02,3.3
+CUST01138,32,Male,Hyderabad,896.9,72,19,75,26,Books & Stationery,200.0,3926.31,3.8
+CUST00615,36,Male,Chennai,244.3,16,8,271,21,Books & Stationery,200.0,1348.89,2.4
+CUST01186,28,Male,Hyderabad,1172.6,100,36,19,38,Beauty & Personal Care,315.62,11565.54,4.2
+CUST01076,26,Male,Ahmedabad,571.4,56,19,28,44,Books & Stationery,200.0,4287.68,3.6
+CUST00737,45,Female,Lucknow,875.2,11,7,56,15,Electronics,200.0,1566.15,3.1
+CUST00437,41,Female,Bengaluru,363.9,19,10,152,39,Books & Stationery,200.0,1876.73,2.7
+CUST00555,47,Female,Mumbai,963.5,10,5,209,23,Books & Stationery,200.0,995.12,1.8
+CUST01080,51,Female,Mumbai,598.4,42,18,307,29,Electronics,200.0,3311.3,3.1
+CUST01062,21,Male,Mumbai,532.4,51,22,72,30,Fashion & Apparel,213.49,5003.03,3.7
+CUST00351,43,Male,Mumbai,896.8,18,10,84,21,Home & Furniture,200.0,1949.01,3.2
+CUST00197,46,Female,Ahmedabad,1527.1,32,16,266,32,Grocery,200.0,3390.35,3.2
+CUST00465,62,Male,Bengaluru,605.8,48,17,4,27,Electronics,200.0,3672.97,3.8
+CUST00589,41,Female,Delhi,1243.5,18,7,73,35,Beauty & Personal Care,200.0,1194.62,2.9
+CUST00006,20,Female,Mumbai,187.1,71,20,2,43,Grocery,200.0,4179.51,3.6
+CUST00311,66,Male,Pune,757.7,52,13,96,18,Sports & Fitness,200.0,2180.89,3.5
+CUST00662,19,Male,Hyderabad,524.9,56,20,60,23,Books & Stationery,200.0,4054.05,4.3
+CUST00405,32,Female,Lucknow,196.2,37,22,123,37,Home & Furniture,200.0,4499.8,3.6
+CUST01196,37,Female,Lucknow,1411.0,86,32,33,24,Beauty & Personal Care,313.3,9966.63,2.9
+CUST01044,31,Female,Mumbai,491.6,60,33,114,29,Home & Furniture,200.0,7132.39,2.9
+CUST01058,69,Male,Jaipur,534.2,43,9,79,28,Electronics,200.0,1482.8,4.1
+CUST00105,48,Male,Delhi,737.7,60,17,13,39,Books & Stationery,200.0,3691.66,3.9
+CUST00537,43,Female,Pune,841.8,2,10,63,32,Grocery,200.0,1939.81,3.6
+CUST00606,23,Female,Lucknow,156.0,75,29,7,20,Beauty & Personal Care,200.0,5220.19,4.0
+CUST00063,67,Female,Lucknow,583.9,52,18,111,22,Electronics,200.0,3869.77,3.7
+CUST00282,36,Male,Hyderabad,662.1,54,27,71,27,Home & Furniture,200.0,5843.92,3.4
+CUST01056,49,Male,Hyderabad,486.4,38,12,92,22,Beauty & Personal Care,200.0,2585.78,3.3
+CUST00239,35,Female,,412.8,28,10,93,15,Fashion & Apparel,200.0,2134.36,3.9
+CUST00224,30,Male,Chennai,335.0,74,28,152,26,Beauty & Personal Care,218.05,6052.46,3.8
+CUST00146,28,Male,Pune,981.7,96,33,26,29,Beauty & Personal Care,230.21,8641.67,4.6
+CUST01119,51,Female,Ahmedabad,859.9,43,16,16,15,Beauty & Personal Care,200.0,3819.31,3.4
+CUST00374,37,Male,Hyderabad,1043.7,92,33,10,23,Grocery,219.07,8436.07,4.5
+CUST00119,53,Female,Hyderabad,766.9,45,18,8,24,Grocery,200.0,4213.24,3.8
+CUST00803,20,Female,Chennai,202.9,5,4,339,9,Beauty & Personal Care,200.0,952.48,2.2
+CUST00251,49,Female,Kolkata,495.9,49,14,133,22,Electronics,200.0,2639.08,3.1
+CUST01157,37,Male,Bengaluru,939.8,1,5,65,12,Beauty & Personal Care,200.0,1003.57,3.0
+CUST00010,29,Female,Kolkata,235.4,70,23,48,36,Grocery,200.0,3994.98,4.1
+CUST00450,31,Female,Pune,462.6,45,15,41,24,Electronics,200.0,3531.62,3.9
+CUST00874,60,Female,Lucknow,593.5,55,17,77,24,Fashion & Apparel,200.0,4079.27,3.9
+CUST00390,34,Female,Lucknow,1224.6,84,31,55,55,Home & Furniture,294.89,10674.4,3.8
+CUST00966,34,Female,Kolkata,1051.2,71,15,44,33,Books & Stationery,247.97,2992.03,3.6
+CUST00461,70,Male,Ahmedabad,611.7,52,15,137,26,Beauty & Personal Care,200.0,3279.0,3.9
+CUST01147,49,Male,Pune,919.6,41,12,124,36,Sports & Fitness,200.0,2038.09,2.5
+CUST00145,24,Male,Ahmedabad,898.2,12,8,143,26,Beauty & Personal Care,200.0,1577.85,2.7
+CUST00502,50,Female,Lucknow,731.7,44,22,14,37,Sports & Fitness,200.0,3984.59,3.9
+CUST01108,53,Male,Lucknow,756.3,47,12,32,20,Beauty & Personal Care,200.0,2678.83,3.7
+CUST00540,34,Female,Lucknow,890.8,70,17,10,31,Sports & Fitness,211.57,2970.59,4.0
+CUST00178,27,Male,Chennai,1060.4,66,25,8,30,Sports & Fitness,200.0,5157.12,3.4
+CUST01159,31,Male,Ahmedabad,966.2,3,6,261,27,Beauty & Personal Care,200.0,1160.35,3.3
+CUST01051,48,Female,Hyderabad,478.1,47,14,11,26,Books & Stationery,200.0,2707.45,3.2
+CUST00584,28,Female,Delhi,1151.4,89,29,14,45,Beauty & Personal Care,310.84,10108.64,4.8
+CUST01195,49,Female,Kolkata,1417.8,15,7,58,15,Electronics,200.0,1500.96,2.8
+CUST00008,23,Female,Mumbai,194.0,93,29,41,32,Home & Furniture,245.33,6154.2,4.9
+CUST00574,35,Male,Kolkata,1086.7,90,27,67,29,Electronics,273.72,6139.88,4.2
+CUST00843,50,Male,Chennai,515.9,37,14,49,24,Beauty & Personal Care,200.0,2281.05,4.1
+CUST00358,30,Female,Ahmedabad,955.3,79,22,25,35,Electronics,257.63,5226.11,3.8
+CUST00330,37,Male,Ahmedabad,867.4,71,23,27,33,Books & Stationery,294.05,6483.62,3.9
+CUST00705,50,Male,,759.5,56,21,20,50,Grocery,200.0,4071.53,
+CUST00830,20,Female,Jaipur,336.0,83,33,22,34,Electronics,281.16,8505.35,4.5
+CUST00259,27,Female,Hyderabad,596.6,50,18,42,1,Books & Stationery,200.0,4285.23,2.8
+CUST00891,67,Female,Kolkata,712.9,54,20,112,29,Books & Stationery,200.0,3237.25,4.1
+CUST00834,18,Male,Delhi,386.1,95,32,10,31,Grocery,200.0,6031.23,4.0
+CUST01188,28,Male,Lucknow,7372.200000000001,69,28,184,15,Grocery,251.13,6636.12,3.3
+CUST00905,48,Male,Hyderabad,737.0,65,31,112,41,Books & Stationery,200.0,7252.26,3.5
+CUST00526,30,Female,Jaipur,842.4,80,26,16,40,Books & Stationery,204.57,6078.12,4.2
+CUST00814,23,Female,Ahmedabad,239.7,74,24,41,34,Grocery,200.0,5073.44,4.0
+CUST00732,39,Male,Pune,841.9,73,20,13,35,Home & Furniture,203.17,3267.92,3.9
+CUST01032,21,Female,Lucknow,333.1,77,37,32,43,Fashion & Apparel,216.7,7391.91,3.7
+CUST01141,59,Female,Delhi,937.0,6,6,365,1,Beauty & Personal Care,200.0,1235.03,2.8
+CUST00441,65,Female,Ahmedabad,419.2,34,12,365,31,Electronics,200.0,2107.44,3.7
+CUST00532,38,Male,Mumbai,851.2,78,36,15,32,Electronics,203.45,8015.08,3.8
+CUST00960,30,Female,Delhi,917.4,73,33,105,15,Beauty & Personal Care,200.0,5475.13,4.1
+CUST00229,39,Female,Ahmedabad,364.4,29,10,26,29,Home & Furniture,200.0,1610.34,3.2
+CUST01041,64,Female,Lucknow,486.7,41,23,32,9,Beauty & Personal Care,200.0,5095.67,4.9
+CUST00213,58,Female,Pune,200.8,13,4,219,13,Beauty & Personal Care,200.0,949.98,3.3
+CUST00080,49,Female,Hyderabad,642.5,41,15,88,15,Grocery,200.0,2754.49,2.8
+CUST00149,35,Female,Ahmedabad,958.9,17,13,88,11,Home & Furniture,200.0,2748.13,3.2
+CUST00592,32,Female,Ahmedabad,1235.8,74,22,20,46,Books & Stationery,208.46,4257.62,4.4
+CUST00708,55,Male,Bengaluru,759.7,46,17,2,4,Beauty & Personal Care,200.0,2945.99,4.1
+CUST00590,38,Female,Delhi,1261.4,89,32,32,37,Home & Furniture,307.86,11651.11,4.3
+CUST00134,31,Female,Chennai,870.8,71,21,43,20,Beauty & Personal Care,255.75,4640.13,4.2
+CUST00782,32,Female,Delhi,1150.0,82,25,67,56,Grocery,257.26,7168.2,3.7
+CUST00409,62,Male,Jaipur,222.6,4,6,11,4,Home & Furniture,200.0,1263.51,2.2
+CUST00970,32,Male,Mumbai,1028.6,63,27,20,23,Sports & Fitness,200.0,6219.78,3.5
+CUST00508,55,Male,Jaipur,762.5,46,22,159,23,Books & Stationery,200.0,5145.9,2.8
+CUST00877,45,Female,Chennai,647.1,56,19,150,26,Electronics,200.0,3985.88,4.6
+CUST00505,45,Male,Ahmedabad,749.9,55,19,48,42,Fashion & Apparel,200.0,4165.88,4.4
+CUST00719,51,Female,Jaipur,796.1,41,12,290,22,Electronics,200.0,2259.31,3.0
+CUST00348,33,Female,Jaipur,903.9,73,18,30,41,Home & Furniture,200.0,3921.21,3.9
+CUST00387,55,Female,Mumbai,1153.4,24,18,180,45,Sports & Fitness,200.0,3885.93,
+CUST00001,19,Male,Hyderabad,150.0,38,18,45,25,Beauty & Personal Care,200.0,4126.79,3.1
+CUST00361,56,Female,Pune,938.2,33,5,88,20,Electronics,200.0,1051.01,3.3
+CUST01134,33,Female,Delhi,863.2,72,18,53,34,Home & Furniture,260.19,3861.45,4.1
+CUST00476,26,Male,Ahmedabad,607.6,47,16,12,26,Grocery,200.0,3291.16,3.6
+CUST00778,27,Male,Chennai,1061.4,70,34,62,24,Beauty & Personal Care,295.24,11112.07,3.9
+CUST00754,40,Female,Bengaluru,919.7,76,26,63,39,Sports & Fitness,200.0,4839.82,3.0
+CUST00173,35,Male,Ahmedabad,1054.1,14,11,4,36,Grocery,200.0,2299.31,2.7
+CUST00451,49,Female,,491.3,52,26,104,9,Beauty & Personal Care,200.0,5605.44,3.2
+CUST00126,31,Female,Jaipur,864.2,79,31,82,27,Home & Furniture,243.27,8665.14,4.0
+CUST00931,47,Male,Mumbai,854.5,9,8,18,27,Beauty & Personal Care,200.0,1346.17,2.5
+CUST00531,47,Male,Delhi,849.7,7,3,208,34,Electronics,200.0,524.57,3.1
+CUST00091,69,Female,,712.2,57,17,46,19,Sports & Fitness,200.0,3186.31,2.8
+CUST01162,29,Female,Hyderabad,923.0,83,25,10,50,Sports & Fitness,200.0,4447.92,4.0
+CUST00182,32,Female,Bengaluru,1092.3,89,34,40,39,Sports & Fitness,200.0,7714.26,3.5
+CUST01027,42,Female,Kolkata,339.8,33,11,182,34,Sports & Fitness,200.0,2066.43,3.2
+CUST01000,31,Male,Bengaluru,1623.7,82,33,47,37,Fashion & Apparel,200.0,5666.67,3.6
+CUST00252,33,Male,Mumbai,516.7,54,21,168,41,Fashion & Apparel,200.0,3774.49,2.9
+CUST00070,32,Female,Hyderabad,590.8,47,15,23,26,Electronics,200.0,2479.11,3.3
+CUST00132,37,Male,Lucknow,825.1,77,28,27,25,Beauty & Personal Care,243.07,7359.71,4.9
+CUST00301,25,Female,Lucknow,729.8,44,15,157,23,Fashion & Apparel,200.0,2430.3,3.1
+CUST01133,24,Female,Ahmedabad,870.5,38,13,301,19,Electronics,200.0,2441.56,3.8
+CUST00327,41,Male,Kolkata,882.0,32,12,15,20,Beauty & Personal Care,200.0,2410.57,2.8
+CUST01020,36,Female,Pune,238.9,100,29,12,40,Sports & Fitness,254.71,8488.78,4.2
+CUST00500,18,Male,Bengaluru,737.1,51,23,26,28,Books & Stationery,200.0,4344.2,3.2
+CUST00666,18,Male,Ahmedabad,579.9,59,23,58,37,Home & Furniture,200.0,5353.52,3.5
+CUST00919,53,Female,Hyderabad,809.4,46,15,21,28,Beauty & Personal Care,200.0,3256.51,3.4
+CUST00496,25,Male,Mumbai,,48,25,157,47,Home & Furniture,200.0,4851.26,2.8
+CUST00339,20,Male,Bengaluru,864.7,17,5,116,23,Beauty & Personal Care,200.0,884.87,3.6
+CUST00964,31,Female,Delhi,987.8,90,19,46,24,Fashion & Apparel,248.39,4084.21,4.4
+CUST00165,51,Male,,1010.5,29,8,117,28,Fashion & Apparel,200.0,1619.29,3.2
+CUST00029,40,Female,Hyderabad,362.0,31,15,2,10,Sports & Fitness,200.0,3190.91,3.4
+CUST00517,64,Female,Hyderabad,765.4,48,10,8,35,Electronics,200.0,2160.44,4.4
+CUST00194,40,Female,Lucknow,,93,25,14,26,Fashion & Apparel,267.87,7195.16,3.8
+CUST01104,27,Male,Delhi,733.1,51,12,4,7,Fashion & Apparel,200.0,2208.82,4.6
+CUST00170,32,Male,Mumbai,1068.0,64,23,76,19,Books & Stationery,272.14,6569.34,4.0
+CUST01059,27,Female,Pune,579.1,50,18,59,25,Books & Stationery,200.0,3885.79,3.4
+CUST00174,35,Male,Kolkata,1003.9,93,39,3,48,Beauty & Personal Care,200.0,8288.84,
+CUST00519,52,Female,Mumbai,819.2,40,12,3,45,Electronics,200.0,2309.79,4.0
+CUST00969,37,Female,Ahmedabad,1025.5,28,13,58,28,Books & Stationery,200.0,2478.47,2.9
+CUST00702,49,Female,Jaipur,770.8,46,19,74,1,Grocery,200.0,3131.11,3.4
+CUST00492,18,Male,Mumbai,668.7,42,15,68,9,Books & Stationery,200.0,2595.66,4.0
+CUST00074,61,Female,Hyderabad,609.3,58,20,37,29,Grocery,220.68,3735.61,3.3
+CUST00981,38,Female,Ahmedabad,1217.0,33,17,365,39,Grocery,200.0,3842.53,3.1
+CUST00588,27,Male,Kolkata,1172.2,73,21,103,19,Electronics,202.1,4817.95,4.2
+CUST00235,48,Female,Bengaluru,401.9,17,8,17,22,Grocery,200.0,1708.51,2.8
+CUST00215,37,Male,Hyderabad,274.2,7,3,51,15,Grocery,200.0,532.16,2.4
+CUST00947,48,Male,Jaipur,900.4,37,13,7,11,Home & Furniture,200.0,3065.16,2.8
+CUST00133,26,Female,Kolkata,885.9,35,13,23,19,Books & Stationery,200.0,2165.75,3.7
+CUST01156,27,Female,Hyderabad,881.3,88,41,22,14,Grocery,245.21,9435.87,5.0
+CUST00733,26,Female,Delhi,842.4,34,9,27,21,Beauty & Personal Care,200.0,2086.32,3.1
+CUST00941,57,Female,Lucknow,897.6,4,3,154,34,Beauty & Personal Care,200.0,665.05,2.6
+CUST00186,32,Male,Chennai,1190.4,100,37,1,27,Electronics,244.47,8682.25,4.1
+CUST00042,25,Male,Lucknow,431.0,94,29,20,22,Books & Stationery,200.0,5676.91,4.3
+CUST00109,69,Male,Pune,686.6,46,15,243,27,Home & Furniture,200.0,3446.98,3.6
+CUST00849,28,Female,Hyderabad,482.6,45,13,1,26,Sports & Fitness,200.0,2411.63,4.4
+CUST00569,37,Female,Bengaluru,,33,7,49,30,Fashion & Apparel,200.0,1646.33,2.9
+CUST00651,51,Female,Pune,488.0,55,12,16,15,Home & Furniture,200.0,2286.3,3.9
+CUST01001,19,Male,Chennai,166.5,40,18,99,18,Sports & Fitness,200.0,3687.44,3.5
+CUST01166,35,Female,Ahmedabad,1057.0,80,24,4,32,Sports & Fitness,214.78,4610.17,4.6
+CUST00484,47,Female,Ahmedabad,678.7,47,8,93,27,Sports & Fitness,200.0,1832.63,3.4
+CUST00469,20,Male,Ahmedabad,583.0,59,17,160,30,Home & Furniture,200.0,3619.25,3.7
+CUST00025,53,Female,Chennai,313.5,14,7,57,1,Electronics,200.0,1671.63,2.6
+CUST00661,68,Male,Kolkata,568.4,60,26,197,27,Sports & Fitness,200.0,6057.06,3.9
+CUST00680,49,Female,Jaipur,607.3,45,24,93,46,Beauty & Personal Care,200.0,4982.15,3.4
+CUST00753,43,Female,Jaipur,891.6,21,11,28,28,Sports & Fitness,200.0,1982.37,3.4
+CUST00994,40,Female,Chennai,1356.9,88,16,1,27,Sports & Fitness,200.0,3009.73,3.8
+CUST00367,41,Male,Bengaluru,1002.9,15,12,147,26,Electronics,200.0,1999.53,3.4
+CUST00840,20,Female,Chennai,451.4,72,19,9,35,Books & Stationery,200.0,4135.51,2.6
+CUST01053,31,Female,Hyderabad,532.9,60,13,52,40,Sports & Fitness,200.0,2667.62,
+CUST00384,27,Female,Kolkata,1158.4,91,30,3,36,Electronics,212.2,6614.97,4.6
+CUST00455,50,Female,Jaipur,510.1,43,16,41,22,Grocery,200.0,3120.36,3.1
+CUST00265,64,Male,Delhi,600.7,50,11,136,31,Grocery,200.0,2447.65,3.2
+CUST00761,57,Female,Bengaluru,952.1,35,12,40,31,Fashion & Apparel,200.0,2432.72,4.0
+CUST00980,36,Male,Bengaluru,1106.7,89,25,5,31,Beauty & Personal Care,200.0,4015.73,4.7
+CUST00445,49,Female,Kolkata,430.7,26,6,14,26,Electronics,200.0,1413.02,2.8
+CUST00396,35,Female,Bengaluru,1451.3,81,30,1,37,Fashion & Apparel,226.66,6428.16,4.1
+CUST00742,33,Male,Kolkata,902.4,100,31,6,55,Grocery,350.21,11779.49,4.1
+CUST00177,60,Male,Ahmedabad,1069.9,13,3,144,25,Books & Stationery,200.0,611.58,2.3
+CUST00019,53,Male,Chennai,246.1,31,12,265,7,Beauty & Personal Care,200.0,1954.74,3.3
+CUST00949,34,Female,Lucknow,926.9,24,11,145,22,Electronics,200.0,2076.35,3.6
+CUST00815,36,Male,Hyderabad,279.8,16,4,5,36,Home & Furniture,200.0,675.43,2.0
+CUST00596,34,Female,,1431.9,77,26,37,50,Grocery,258.94,7404.52,4.2
+CUST00062,19,Male,Chennai,3326.3999999999996,51,14,148,21,Home & Furniture,200.0,2613.65,4.1
+CUST00273,60,Female,Ahmedabad,599.7,48,18,95,12,Grocery,200.0,3534.5,3.1
+CUST01126,31,Female,Pune,852.9,82,27,50,58,Books & Stationery,200.0,6243.12,4.4
+CUST00279,24,Female,Jaipur,638.2,47,16,100,35,Fashion & Apparel,200.0,2787.26,3.8
+CUST00842,24,Male,Pune,472.5,89,33,50,34,Fashion & Apparel,200.0,5815.11,3.5
+CUST00369,36,Female,Hyderabad,1062.2,29,7,9,28,Beauty & Personal Care,200.0,1266.9,2.9
+CUST00887,56,Female,Mumbai,681.6,54,14,10,23,Books & Stationery,200.0,2719.7,3.3
+CUST01015,36,Male,Lucknow,218.3,10,6,38,12,Electronics,200.0,1289.62,3.6
+CUST00860,54,Male,Pune,524.7,45,13,39,44,Electronics,200.0,2256.69,3.7
+CUST00721,27,Male,Jaipur,776.7,57,25,57,34,Books & Stationery,200.0,4245.29,3.5
+CUST00826,29,Male,Jaipur,299.2,80,28,24,36,Grocery,222.74,7065.03,4.1
+CUST00548,31,Female,Lucknow,931.8,75,19,26,51,Sports & Fitness,200.0,4240.42,4.9
+CUST00880,49,Female,Chennai,625.1,41,20,44,20,Grocery,200.0,3223.9,3.4
+CUST00900,18,Male,Bengaluru,770.6,49,13,121,58,Home & Furniture,200.0,2999.0,4.0
+CUST00457,52,Female,Ahmedabad,537.7,50,15,75,16,Electronics,200.0,2485.2,3.8
+CUST00394,39,Female,Mumbai,1337.8,89,45,6,54,Electronics,288.45,11142.77,3.4
+CUST00676,26,Male,Lucknow,602.3,51,14,19,26,Books & Stationery,200.0,2430.84,3.3
+CUST00912,19,Female,,,56,23,24,16,Books & Stationery,200.0,4252.75,4.0
+CUST00965,50,Male,Pune,1035.1,27,14,47,34,Home & Furniture,200.0,2578.27,3.8
+CUST00376,33,Female,Lucknow,1024.4,94,35,21,37,Fashion & Apparel,200.0,8000.82,4.1
+CUST00413,57,Female,Lucknow,238.9,14,12,139,24,Fashion & Apparel,200.0,2609.38,
+CUST00075,59,Male,Pune,632.4,44,13,43,39,Grocery,200.0,2397.33,3.7
+CUST01122,38,Female,Jaipur,835.4,40,11,204,5,Books & Stationery,200.0,2145.61,3.4
+CUST00863,67,Female,Delhi,570.8,53,11,173,27,Beauty & Personal Care,200.0,2636.86,3.1
+CUST00501,25,Female,Ahmedabad,4294.799999999999,39,18,1,12,Books & Stationery,200.0,3973.7,3.2
+CUST00942,33,Male,Kolkata,891.7,95,21,30,58,Beauty & Personal Care,243.41,6004.25,5.0
+CUST00617,36,Female,Lucknow,268.6,33,6,110,2,Beauty & Personal Care,200.0,1275.59,2.5
+CUST00115,18,Female,Lucknow,794.1,48,11,53,17,Fashion & Apparel,200.0,1799.6,3.1
+CUST00418,22,Male,Pune,207.6,68,18,103,32,Books & Stationery,200.0,3052.74,3.6
+CUST00602,20,Male,Mumbai,191.1,83,25,2,36,Grocery,200.0,5473.34,4.3
+CUST00605,30,Female,Mumbai,206.3,39,15,27,19,Sports & Fitness,200.0,3037.21,3.1
+CUST00090,51,Female,Chennai,716.6,46,19,139,25,Home & Furniture,200.0,3407.36,2.8
+CUST01149,35,Female,Jaipur,973.6,20,8,36,31,Sports & Fitness,200.0,1364.55,3.4
+CUST00499,46,Male,Mumbai,,39,8,1,27,Beauty & Personal Care,200.0,1533.37,3.4
+CUST00876,24,Male,Hyderabad,615.8,51,19,49,30,Beauty & Personal Care,200.0,4402.82,4.3
+CUST00927,43,Male,Lucknow,,37,15,51,40,Sports & Fitness,200.0,3395.37,3.4
+CUST00999,32,Male,Delhi,1638.6,12,14,65,13,Grocery,200.0,3073.82,2.9
+CUST00012,36,Female,Pune,215.8,100,38,6,51,Home & Furniture,216.19,6653.57,4.8
+CUST00397,46,Female,Bengaluru,1520.0,30,12,97,35,Home & Furniture,200.0,2534.0,3.3
+CUST00755,49,Female,Bengaluru,941.4,14,14,23,31,Home & Furniture,200.0,2582.09,2.7
+CUST00556,27,Female,Pune,951.7,86,37,65,38,Sports & Fitness,254.8,8539.96,4.2
+CUST00043,47,Male,Lucknow,510.1,33,9,13,29,Grocery,200.0,1693.64,2.3
+CUST00168,33,Female,Pune,1065.2,96,18,33,43,Fashion & Apparel,266.02,3929.1,4.2
+CUST00417,36,Female,Lucknow,324.9,31,21,161,34,Grocery,200.0,4506.4,3.1
+CUST00577,60,Male,Jaipur,1022.3,13,6,230,1,Home & Furniture,200.0,1046.61,2.9
+CUST00268,68,Female,Pune,542.0,47,14,27,8,Home & Furniture,200.0,3011.31,3.5
+CUST00808,22,Female,Ahmedabad,188.2,95,40,1,47,Beauty & Personal Care,277.87,9690.56,4.3
+CUST00427,46,Female,Mumbai,277.4,38,12,219,20,Books & Stationery,200.0,2426.93,3.6
+CUST00691,68,Female,Bengaluru,733.6,59,23,69,46,Grocery,200.0,4964.67,3.4
+CUST00545,25,Male,Ahmedabad,940.8,12,5,107,23,Fashion & Apparel,200.0,850.84,2.8
+CUST01123,39,Female,Lucknow,856.5,57,20,12,29,Grocery,200.0,4728.7,3.5
+CUST00675,60,Male,Bengaluru,621.4,51,22,47,36,Home & Furniture,200.0,3535.28,2.9
+CUST00690,49,Female,Ahmedabad,709.6,49,28,15,32,Home & Furniture,200.0,5049.15,3.6
+CUST01055,48,Female,Kolkata,541.8,49,17,6,40,Beauty & Personal Care,200.0,3484.52,3.1
+CUST01177,57,Male,Pune,1068.6,16,7,151,19,Sports & Fitness,200.0,1640.55,2.5
+CUST01033,52,Male,Jaipur,363.8,3,3,365,11,Sports & Fitness,200.0,593.15,2.9
+CUST01035,48,Female,Hyderabad,372.9,10,3,118,6,Electronics,200.0,701.03,2.8
+CUST00258,69,Male,Kolkata,530.3,43,21,52,41,Fashion & Apparel,200.0,4246.58,3.8
+CUST00336,28,Female,,852.0,87,27,5,29,Beauty & Personal Care,231.91,5201.8,4.6
+CUST00016,21,Male,Kolkata,205.5,83,28,11,33,Electronics,210.09,5853.32,3.6
+CUST00902,49,Female,Pune,701.1,54,21,72,27,Fashion & Apparel,207.81,4910.07,3.1
+CUST00325,25,Female,Mumbai,829.4,27,13,304,16,Books & Stationery,200.0,2342.25,3.5
+CUST00608,24,Female,Lucknow,216.0,97,22,14,54,Fashion & Apparel,318.75,7555.11,3.8
+CUST01054,62,Male,Lucknow,456.5,62,21,118,19,Beauty & Personal Care,200.0,4542.77,3.0
+CUST00791,33,Female,Chennai,1245.8,19,10,121,36,Electronics,200.0,2395.47,3.1
+CUST00223,46,Female,Chennai,309.8,10,2,365,16,Electronics,200.0,468.48,2.1
+CUST00180,35,Male,Kolkata,1152.8,94,23,12,32,Beauty & Personal Care,327.5,6188.18,4.6
+CUST00100,19,Male,Hyderabad,707.9,53,19,138,24,Electronics,200.0,4536.93,4.5
+CUST00522,37,Female,Pune,769.1,41,15,31,23,Home & Furniture,200.0,3549.44,2.9
+CUST00023,47,Female,Pune,310.3,10,5,106,22,Beauty & Personal Care,200.0,1193.53,2.6
+CUST00357,37,Male,Kolkata,917.8,3,2,134,1,Books & Stationery,200.0,377.69,3.5
+CUST00734,31,Female,Hyderabad,896.3,69,20,123,57,Grocery,236.02,4803.27,3.2
+CUST01094,40,Female,Pune,709.3,41,14,150,27,Beauty & Personal Care,200.0,3014.57,2.8
+CUST01112,19,Female,Mumbai,763.0,50,12,23,22,Electronics,200.0,2499.55,2.4
+CUST00612,35,Female,Hyderabad,178.7,98,31,22,45,Grocery,236.64,7986.2,4.3
+CUST01010,30,Female,Jaipur,217.1,72,18,129,21,Home & Furniture,200.0,3605.36,3.1
+CUST00341,54,Female,Pune,893.5,2,5,226,1,Grocery,200.0,1054.61,
+CUST00432,22,Female,Pune,339.2,76,25,20,30,Grocery,200.0,5826.5,4.1
+CUST00962,29,Female,Pune,924.4,76,26,1,16,Grocery,200.0,4348.15,3.8
+CUST00218,22,Male,,276.9,69,32,61,34,Fashion & Apparel,203.05,6070.21,3.8
+CUST00204,24,Female,Hyderabad,179.7,78,39,3,30,Fashion & Apparel,211.29,9107.3,4.5
+CUST00906,23,Female,Ahmedabad,731.2,44,10,173,4,Beauty & Personal Care,200.0,1917.11,4.1
+CUST00923,40,Female,Pune,807.8,58,18,82,17,Beauty & Personal Care,221.47,4715.59,3.8
+CUST00094,40,Female,Ahmedabad,666.8,38,15,17,39,Electronics,200.0,3390.48,3.4
+CUST00911,64,Male,Chennai,765.8,50,15,5,30,Books & Stationery,200.0,3488.7,3.8
+CUST00069,20,Male,Jaipur,592.3,61,29,6,38,Electronics,200.0,5545.53,3.7
+CUST00895,32,Female,Pune,,40,20,6,24,Books & Stationery,200.0,3476.82,3.2
+CUST00285,20,Female,Ahmedabad,667.4,53,22,365,28,Grocery,200.0,4017.39,
+CUST00697,44,Female,Hyderabad,681.2,51,21,56,17,Electronics,200.0,4389.2,3.0
+CUST00086,49,Male,Kolkata,654.3,46,14,12,35,Electronics,200.0,2767.35,3.3
+CUST00435,50,Female,Bengaluru,403.1,15,7,6,13,Fashion & Apparel,200.0,1391.45,2.4
+CUST00797,46,Female,Kolkata,1519.6,24,10,22,34,Home & Furniture,200.0,1707.46,3.6
+CUST00154,37,Female,Delhi,944.8,70,19,132,35,Home & Furniture,200.0,3301.02,3.7
+CUST00076,27,Male,Ahmedabad,648.6,54,20,3,30,Grocery,200.0,3777.05,4.0
+CUST01043,49,Male,Bengaluru,433.2,36,19,98,38,Books & Stationery,200.0,3782.83,3.8
+CUST00581,34,Female,Bengaluru,1184.2,32,8,17,21,Books & Stationery,200.0,1525.6,2.7
+CUST00447,51,Female,Lucknow,477.0,53,14,40,24,Books & Stationery,200.0,2831.4,4.4
+CUST00704,26,Male,Ahmedabad,740.7,58,23,14,21,Fashion & Apparel,200.0,3786.77,3.9
+CUST00189,39,Female,Bengaluru,1244.4,18,10,365,24,Books & Stationery,200.0,1618.19,3.2
+CUST00272,47,Female,Hyderabad,616.1,46,17,34,7,Fashion & Apparel,200.0,3516.69,
+CUST00237,39,Female,Hyderabad,397.0,16,12,137,28,Home & Furniture,200.0,2748.8,2.8
+CUST00488,23,Female,Kolkata,690.2,55,23,83,41,Grocery,200.0,4048.38,3.8
+CUST01160,28,Female,Mumbai,975.3,71,26,24,48,Grocery,200.0,5839.16,3.8
+CUST00560,29,Female,Lucknow,937.8,79,17,4,35,Sports & Fitness,216.59,4021.02,3.8
+CUST00118,49,Female,Chennai,789.4,63,23,47,7,Home & Furniture,200.0,4256.86,4.0
+CUST00638,29,Female,Delhi,401.5,73,28,30,40,Grocery,253.16,5835.71,3.4
+CUST01128,40,Male,Chennai,888.7,91,29,1,52,Fashion & Apparel,200.0,5797.73,
+CUST00751,43,Male,Chennai,937.4,18,15,125,17,Fashion & Apparel,200.0,3160.8,2.3
+CUST00513,38,Female,Jaipur,784.0,42,17,48,29,Home & Furniture,200.0,3446.75,4.9
+CUST00634,18,Male,Pune,406.4,93,29,13,24,Electronics,209.23,5319.13,5.0
+CUST00786,30,Male,Hyderabad,1180.8,93,22,6,48,Sports & Fitness,233.08,5781.95,4.8
+CUST01007,36,Female,Ahmedabad,204.6,8,4,16,13,Electronics,200.0,904.45,2.6
+CUST00853,32,Female,Chennai,545.0,50,17,198,27,Fashion & Apparel,200.0,2939.9,4.3
+CUST00127,45,Male,Bengaluru,859.3,35,12,20,19,Sports & Fitness,200.0,2458.12,3.2
+CUST00117,63,Female,,774.9,43,24,3,23,Books & Stationery,200.0,3929.09,4.0
+CUST00474,60,Female,Ahmedabad,611.3,50,18,238,42,Electronics,208.28,3966.19,3.2
+CUST00741,58,Female,Ahmedabad,868.1,4,3,87,20,Sports & Fitness,200.0,528.5,2.7
+CUST00993,35,Male,Jaipur,1331.0,6,4,73,34,Grocery,200.0,748.85,2.3
+CUST00058,71,Male,Hyderabad,527.0,44,24,56,29,Grocery,200.0,5345.66,3.6
+CUST00604,22,Female,Bengaluru,181.8,72,33,53,27,Beauty & Personal Care,200.0,6474.97,3.5
+CUST00787,54,Female,Chennai,1217.0,21,7,15,23,Home & Furniture,200.0,1255.0,3.0
+CUST00971,40,Male,Bengaluru,1022.7,12,9,49,8,Home & Furniture,200.0,1516.73,2.6
+CUST00657,50,Female,Mumbai,523.8,49,10,16,31,Home & Furniture,200.0,1604.26,2.8
+CUST00903,67,Male,Mumbai,726.2,62,22,13,38,Sports & Fitness,200.0,3643.78,4.7
+CUST00922,37,Female,Mumbai,805.1,39,9,101,6,Grocery,200.0,1535.25,3.8
+CUST00106,21,Female,Kolkata,682.0,45,15,64,16,Sports & Fitness,200.0,2963.69,3.4
+CUST00636,21,Female,Chennai,398.2,82,29,69,40,Home & Furniture,226.23,5294.85,4.4
+CUST00370,33,Male,Bengaluru,1004.3,65,25,23,38,Sports & Fitness,212.8,5408.28,4.0
+CUST00269,19,Male,Lucknow,540.3,59,18,16,37,Electronics,220.7,4503.12,4.1
+CUST00656,47,Male,Ahmedabad,498.7,38,13,365,2,Home & Furniture,200.0,2107.74,3.0
+CUST00047,51,Female,Jaipur,469.7,54,13,227,38,Fashion & Apparel,200.0,2513.06,3.5
+CUST00350,36,Male,Hyderabad,945.9,92,29,4,70,Books & Stationery,320.04,9619.74,4.4
+CUST00774,38,Male,Jaipur,1086.4,92,36,62,31,Beauty & Personal Care,234.06,9699.19,4.3
+CUST00196,34,Female,Jaipur,1486.6,77,34,138,36,Books & Stationery,200.0,8113.87,4.6
+CUST00103,67,Male,Kolkata,759.4,62,18,38,22,Fashion & Apparel,254.92,5231.3,3.7
+CUST00005,29,Female,Lucknow,187.7,37,18,258,22,Grocery,200.0,3452.07,2.6
+CUST00620,37,Female,Bengaluru,269.5,92,27,6,35,Fashion & Apparel,200.0,4711.04,4.1
+CUST00991,35,Female,Pune,1254.2,20,17,306,15,Fashion & Apparel,200.0,3940.67,2.9
+CUST00053,29,Female,Chennai,496.1,56,26,73,22,Home & Furniture,200.0,4387.13,3.2
+CUST00264,53,Female,Hyderabad,575.5,55,23,17,40,Home & Furniture,200.0,4791.92,3.4
+CUST01093,49,Male,Hyderabad,750.1,48,16,101,34,Fashion & Apparel,200.0,2964.24,3.3
+CUST00444,33,Female,Hyderabad,484.2,63,22,71,28,Home & Furniture,200.0,3841.65,2.6
+CUST00972,28,Male,Hyderabad,1017.1,70,15,4,44,Fashion & Apparel,286.92,4275.57,3.8
+CUST00783,48,Male,Lucknow,1176.8,13,12,53,2,Beauty & Personal Care,200.0,2470.12,2.8
+CUST00847,54,Female,Mumbai,496.5,52,20,75,43,Grocery,200.0,4766.95,3.0
+CUST00692,18,Male,Bengaluru,688.4,39,10,50,28,Beauty & Personal Care,200.0,1888.31,3.2
+CUST00305,49,Male,Bengaluru,738.7,57,19,9,32,Electronics,200.0,3398.13,3.1
+CUST00342,32,Male,Kolkata,921.0,95,31,16,36,Electronics,416.95,13603.49,4.8
+CUST00867,41,Female,Delhi,600.1,42,14,11,37,Books & Stationery,200.0,2421.36,3.4
+CUST00314,20,Male,Kolkata,718.1,43,17,165,39,Beauty & Personal Care,200.0,3216.22,2.5
+CUST00150,34,Male,Kolkata,933.3,91,30,3,46,Fashion & Apparel,327.72,8757.29,4.0
+CUST00125,24,Female,Mumbai,845.7,35,16,5,31,Fashion & Apparel,200.0,2690.96,2.1
+CUST01063,66,Female,Jaipur,3405.0,48,20,154,36,Sports & Fitness,200.0,4331.81,3.3
+CUST00575,52,Female,Lucknow,1084.0,13,2,12,29,Grocery,200.0,414.36,3.3
+CUST00698,26,Female,Chennai,731.3,48,21,275,14,Electronics,200.0,4231.12,4.0
+CUST00665,63,Male,Bengaluru,583.2,50,24,49,19,Grocery,200.0,3929.12,2.2
+CUST00051,49,Female,Hyderabad,528.2,50,15,4,35,Sports & Fitness,200.0,2856.97,3.5
+CUST00727,43,Male,Hyderabad,837.4,35,10,53,21,Sports & Fitness,200.0,2219.01,3.4
+CUST00800,30,Male,Ahmedabad,1699.4,82,23,12,23,Home & Furniture,311.92,7058.38,4.4
+CUST00354,39,Female,Bengaluru,926.9,76,20,21,29,Grocery,262.03,4561.19,3.7
+CUST01153,44,Female,Mumbai,935.1,23,14,76,30,Sports & Fitness,200.0,3358.94,2.7
+CUST00143,25,Female,Delhi,923.0,39,10,131,25,Fashion & Apparel,200.0,2055.99,2.6
+CUST00471,70,Male,Jaipur,585.8,49,16,6,42,Beauty & Personal Care,200.0,3799.93,3.7
+CUST00654,58,Male,Chennai,532.8,60,19,38,24,Beauty & Personal Care,200.0,4509.74,3.8
+CUST00400,29,Male,Chennai,1617.3,81,21,23,46,Grocery,260.22,5847.18,
+CUST01154,37,Female,Chennai,940.9,71,28,1,37,Books & Stationery,218.92,6650.36,3.8
+CUST00938,32,Male,Pune,897.2,74,13,1,46,Electronics,200.0,2225.09,3.2
+CUST00321,28,Male,Ahmedabad,772.3,57,18,115,36,Beauty & Personal Care,223.19,3788.85,4.5
+CUST00020,35,Female,Bengaluru,309.1,91,25,46,29,Fashion & Apparel,231.29,5613.46,4.7
+CUST00685,20,Female,Lucknow,597.8,56,15,9,27,Sports & Fitness,200.0,3063.7,3.0
+CUST00036,22,Female,Bengaluru,376.2,78,35,33,40,Beauty & Personal Care,288.53,10362.71,4.6
+CUST00825,52,Female,Lucknow,302.7,15,12,155,11,Books & Stationery,200.0,2840.6,3.4
+CUST00506,20,Female,Ahmedabad,791.6,42,20,73,37,Beauty & Personal Care,200.0,4745.26,3.8
+CUST00828,35,Male,Ahmedabad,271.0,61,22,59,22,Books & Stationery,200.0,4117.52,2.7
+CUST01071,70,Male,Hyderabad,598.4,50,15,223,28,Electronics,200.0,3315.14,3.2
+CUST00408,24,Female,Ahmedabad,,88,39,2,22,Grocery,200.0,6476.14,4.2
+CUST00818,20,Male,Pune,235.5,70,21,20,41,Sports & Fitness,200.0,3536.88,4.1
+CUST00538,33,Male,Mumbai,871.3,77,30,2,36,Sports & Fitness,240.42,6211.95,4.2
+CUST00759,35,Male,Kolkata,928.8,1,6,53,24,Home & Furniture,200.0,1387.82,2.0
+CUST01069,21,Male,Mumbai,529.8,63,24,365,43,Electronics,200.0,4533.35,3.9
+CUST00893,48,Male,Hyderabad,723.3,48,10,1,31,Beauty & Personal Care,200.0,1930.12,3.2
+CUST00039,35,Female,Bengaluru,459.5,29,19,20,17,Sports & Fitness,200.0,3798.52,3.6
+CUST00176,30,Female,Ahmedabad,1065.1,87,38,10,27,Books & Stationery,200.0,7359.03,4.0
+CUST00246,22,Female,Pune,475.3,65,25,61,36,Books & Stationery,200.0,4979.96,3.8
+CUST00811,67,Male,Hyderabad,196.4,14,3,20,29,Books & Stationery,200.0,502.57,3.2
+CUST01085,21,Female,Delhi,659.5,60,18,40,26,Electronics,200.0,4011.2,3.8
+CUST01078,43,Male,Ahmedabad,695.2,47,21,90,30,Fashion & Apparel,200.0,3963.92,3.2
+CUST00785,41,Female,Mumbai,1168.4,41,8,101,15,Electronics,200.0,1302.69,2.9
+CUST01185,41,Female,Pune,1205.1,40,15,197,20,Fashion & Apparel,200.0,3405.59,3.6
+CUST00490,51,Female,Pune,717.8,45,18,59,31,Fashion & Apparel,200.0,4103.6,3.3
+CUST00155,47,Female,Mumbai,983.8,17,16,3,17,Fashion & Apparel,200.0,3764.78,3.6
+CUST00639,37,Female,Jaipur,481.0,23,8,56,28,Fashion & Apparel,200.0,1538.34,3.1
+CUST00663,66,Female,Hyderabad,599.3,59,25,169,27,Beauty & Personal Care,200.0,4897.49,2.8
+CUST00854,59,Male,Pune,,63,25,39,40,Books & Stationery,200.0,5870.5,4.6
+CUST00288,22,Female,Lucknow,649.7,54,19,26,31,Sports & Fitness,200.0,3416.03,4.1
+CUST00626,28,Male,Delhi,352.8,82,24,66,22,Fashion & Apparel,248.85,5290.23,3.5
+CUST01200,29,Male,Bengaluru,1658.7,87,23,4,25,Grocery,296.77,7708.41,3.3
+CUST00686,47,Male,Kolkata,654.7,48,20,1,38,Electronics,200.0,4535.7,3.3
+CUST00873,61,Female,Lucknow,550.6,48,13,2,18,Beauty & Personal Care,200.0,2194.95,3.7
+CUST00570,32,Male,Pune,1114.2,63,25,12,3,Books & Stationery,200.93,4618.26,4.4
+CUST01144,31,Female,Kolkata,907.3,88,23,7,28,Books & Stationery,266.6,7037.17,4.1
+CUST00735,20,Male,Chennai,842.2,3,5,119,29,Grocery,200.0,1130.06,3.0
+CUST00793,34,Male,Bengaluru,1361.8,8,5,44,24,Fashion & Apparel,200.0,994.59,3.0
+CUST00018,19,Male,Mumbai,195.8,64,21,158,17,Electronics,200.0,4659.31,3.8
+CUST00128,39,Male,Ahmedabad,812.3,94,35,3,16,Electronics,271.98,9155.69,3.6
+CUST00323,41,Female,Jaipur,822.1,53,22,19,31,Grocery,200.0,4643.6,2.9
+CUST00256,48,Male,Pune,513.1,39,10,126,44,Beauty & Personal Care,200.0,1921.32,3.4
+CUST00944,33,Female,Kolkata,921.9,89,31,6,32,Fashion & Apparel,223.01,7332.9,3.8
+CUST01180,36,Male,Jaipur,1113.8,86,24,60,35,Home & Furniture,209.67,5579.62,4.5
+CUST00191,36,Female,Bengaluru,1219.2,21,10,62,13,Home & Furniture,200.0,2005.6,2.7
+CUST00116,18,Female,Delhi,825.9,48,22,41,20,Sports & Fitness,200.0,5026.62,3.6
+CUST01174,35,Male,Bengaluru,1083.8,92,30,2,55,Electronics,264.16,6938.12,4.9
+CUST00889,31,Female,Lucknow,680.3,59,28,120,27,Home & Furniture,200.0,6060.19,3.8
+CUST00607,36,Female,Lucknow,227.9,1,7,58,8,Electronics,200.0,1485.1,2.6
+CUST00181,39,Female,Delhi,1194.7,29,15,97,21,Sports & Fitness,200.0,2405.07,3.8
+CUST00302,47,Female,Mumbai,728.4,45,19,2,21,Sports & Fitness,200.0,3456.06,2.9
+CUST00497,45,Female,Lucknow,708.4,50,13,349,29,Electronics,200.0,2130.02,3.0
+CUST00349,32,Female,Lucknow,949.8,21,14,109,20,Electronics,200.0,2322.03,2.8
+CUST01036,21,Female,Mumbai,369.9,83,26,120,29,Sports & Fitness,231.9,5062.52,3.5
+CUST00983,46,Male,Kolkata,1129.4,21,19,35,28,Grocery,200.0,3249.41,3.0
+CUST00745,25,Male,Ahmedabad,914.5,11,6,14,13,Fashion & Apparel,200.0,1300.1,2.2
+CUST01152,40,Male,Lucknow,951.5,84,34,93,47,Electronics,200.0,6997.05,3.8
+CUST00518,48,Female,Ahmedabad,766.8,64,21,28,48,Books & Stationery,200.0,4038.71,4.2
+CUST00373,37,Male,Delhi,1052.5,9,1,61,1,Sports & Fitness,200.0,199.5,2.7
+CUST00046,24,Female,Hyderabad,469.7,73,28,71,21,Fashion & Apparel,200.0,5881.87,3.7
+CUST00477,46,Female,Kolkata,672.7,49,15,39,37,Electronics,200.0,3370.43,3.4
+CUST00158,31,Female,Kolkata,923.3,81,33,24,41,Electronics,200.0,7330.39,2.6
+CUST01047,49,Female,Delhi,440.4,54,16,3,28,Sports & Fitness,200.0,2823.11,3.7
+CUST00172,29,Male,Jaipur,1064.7,77,23,20,51,Fashion & Apparel,258.41,5654.44,
+CUST00017,35,Female,Delhi,206.7,33,11,78,39,Electronics,200.0,2195.93,3.2
+CUST00512,19,Female,Hyderabad,699.1,60,22,78,46,Beauty & Personal Care,200.0,5153.1,3.6
+CUST00049,30,Female,Mumbai,475.7,44,17,105,24,Books & Stationery,200.0,3733.39,3.2
+CUST00192,32,Female,Kolkata,1272.9,75,28,13,39,Grocery,234.1,6153.7,3.8
+CUST00547,48,Male,Jaipur,909.6,41,22,69,23,Books & Stationery,200.0,5146.49,3.1
+CUST00516,19,Female,Ahmedabad,783.2,56,19,3,27,Beauty & Personal Care,200.0,3937.76,3.1
+CUST00978,27,Male,Hyderabad,1068.7,68,32,365,24,Books & Stationery,200.0,6047.2,4.7
+CUST00939,20,Male,Lucknow,896.0,7,2,63,18,Books & Stationery,200.0,357.21,
+CUST00829,41,Female,Hyderabad,353.1,33,14,66,25,Beauty & Personal Care,200.0,2615.05,3.2
+CUST00984,30,Female,Hyderabad,1150.9,86,28,21,44,Beauty & Personal Care,232.16,6548.72,
+CUST00481,57,Male,Pune,610.5,52,23,365,20,Home & Furniture,200.0,3948.7,3.0
+CUST01129,59,Male,Mumbai,856.2,6,2,42,45,Grocery,200.0,340.13,2.3
+CUST00284,47,Female,Jaipur,656.2,42,20,77,22,Sports & Fitness,200.0,4337.4,3.2
+CUST01030,24,Female,Chennai,354.9,89,28,2,23,Fashion & Apparel,235.06,7762.65,3.7
+CUST00798,33,Male,Chennai,1509.7,73,34,4,15,Home & Furniture,299.95,9979.45,3.5
+CUST00940,36,Female,Ahmedabad,919.5,67,23,3,37,Beauty & Personal Care,209.58,5736.14,3.3
+CUST00226,29,Male,Delhi,313.2,82,34,58,32,Books & Stationery,206.01,8087.72,3.6
+CUST00027,46,Female,Jaipur,354.2,38,8,44,21,Books & Stationery,204.15,1703.83,4.6
+CUST00283,68,Male,Mumbai,650.9,44,7,21,7,Fashion & Apparel,200.0,1287.33,2.7
+CUST01150,35,Male,,954.7,92,38,16,44,Books & Stationery,214.59,6610.2,4.6
+CUST00438,29,Female,Hyderabad,432.3,74,21,36,38,Books & Stationery,200.0,4581.57,4.0
+CUST01168,35,Female,Hyderabad,1022.3,91,38,2,44,Fashion & Apparel,269.46,9710.8,5.0
+CUST00365,50,Male,Pune,996.5,24,9,23,3,Grocery,200.0,1853.1,3.9
+CUST00230,23,Female,,366.6,87,34,4,41,Sports & Fitness,244.4,8740.04,3.8
+CUST00038,29,Female,Mumbai,422.3,74,24,1,46,Home & Furniture,217.32,4785.09,3.9
+CUST00670,29,Female,Bengaluru,581.9,44,13,52,13,Fashion & Apparel,200.0,2905.92,3.8
+CUST00750,33,Male,Hyderabad,986.0,91,37,2,35,Home & Furniture,279.43,8716.43,4.0
+CUST01181,35,Female,Chennai,1157.2,34,12,1,17,Sports & Fitness,200.0,2856.67,3.9
+CUST00375,53,Female,Mumbai,1019.7,12,5,1,11,Books & Stationery,200.0,941.94,2.6
+CUST00470,31,Female,Jaipur,558.5,49,18,112,32,Books & Stationery,200.0,4016.2,2.6
+CUST00883,66,Male,Hyderabad,619.2,39,19,145,13,Books & Stationery,200.0,4041.23,3.6
+CUST01182,33,Female,Hyderabad,,92,29,2,39,Electronics,200.0,4682.17,4.5
+CUST00688,24,Female,Ahmedabad,689.0,52,21,92,19,Sports & Fitness,200.0,3995.83,3.2
+CUST00033,52,Male,Bengaluru,366.4,1,5,162,1,Electronics,200.0,903.4,
+CUST01011,66,Male,Mumbai,247.8,7,7,63,22,Books & Stationery,200.0,1298.03,2.0
+CUST01176,28,Female,Chennai,995.0,80,26,15,25,Beauty & Personal Care,247.51,6703.41,3.9
+CUST00195,46,Female,Jaipur,1393.2,11,10,5,17,Grocery,200.0,1848.47,2.4
+CUST01106,22,Female,Kolkata,731.7,47,31,27,24,Grocery,200.0,6133.36,3.7
+CUST01114,19,Male,Lucknow,769.4,49,16,124,27,Books & Stationery,200.0,2800.5,3.3
+CUST01064,55,Female,Bengaluru,559.1,55,28,32,40,Electronics,200.0,6136.68,3.5
+CUST00504,24,Male,Pune,685.9,53,18,37,22,Sports & Fitness,200.0,2989.51,2.8
+CUST00916,20,Female,Kolkata,773.5,53,19,4,20,Fashion & Apparel,200.0,3886.68,3.6
+CUST00977,59,Male,Lucknow,1068.0,17,3,163,23,Fashion & Apparel,200.0,643.52,3.5
+CUST01183,45,Male,Bengaluru,1137.7,15,15,248,25,Sports & Fitness,200.0,3542.68,1.5
+CUST01088,20,Female,Lucknow,740.9,56,22,34,39,Grocery,200.0,3586.03,4.0
+CUST00801,18,Male,Bengaluru,168.7,37,15,72,41,Beauty & Personal Care,200.0,2940.57,3.4
+CUST00580,35,Male,Bengaluru,1152.6,97,30,1,44,Beauty & Personal Care,300.13,9041.45,4.0
+CUST00161,55,Female,Hyderabad,938.6,36,9,203,28,Electronics,200.0,1643.37,2.8
+CUST00681,58,Male,Hyderabad,666.1,50,18,46,27,Home & Furniture,200.0,3185.47,3.2
+CUST01198,31,Male,Pune,1507.4,72,22,1,46,Fashion & Apparel,200.0,4706.49,3.7
+CUST00163,22,Male,Chennai,928.7,9,8,6,8,Beauty & Personal Care,200.0,1714.04,2.6
+CUST00822,27,Male,Lucknow,268.3,73,17,82,32,Books & Stationery,206.07,4184.28,3.8
+CUST00706,20,Female,Kolkata,715.0,42,14,111,11,Fashion & Apparel,200.0,2240.64,3.9
+CUST01009,65,Male,Delhi,243.3,4,4,74,23,Electronics,200.0,686.94,2.3
+CUST00878,40,Male,Bengaluru,649.3,42,10,72,33,Sports & Fitness,200.0,2018.23,3.2
+CUST00896,25,Male,Kolkata,739.6,54,28,139,26,Fashion & Apparel,200.0,4510.97,3.6
+CUST00914,18,Male,Ahmedabad,773.0,46,19,166,17,Grocery,200.0,3297.18,3.1
+CUST01199,34,Male,Chennai,1627.9,13,9,26,33,Sports & Fitness,200.0,1950.8,4.0
+CUST00153,42,Female,Delhi,903.7,19,7,23,24,Beauty & Personal Care,200.0,1439.96,3.5
+CUST00979,57,Male,Mumbai,1131.1,11,4,89,38,Home & Furniture,200.0,654.81,3.6
+CUST01003,20,Female,Kolkata,194.3,4,5,365,1,Home & Furniture,200.0,1015.68,2.3
+CUST00510,67,Male,Ahmedabad,751.9,50,15,81,27,Grocery,200.0,2734.66,3.7
+CUST00112,19,Female,Delhi,776.1,59,22,55,38,Grocery,200.0,5141.89,4.1
+CUST00227,48,Female,Mumbai,356.6,36,15,50,41,Fashion & Apparel,200.0,3381.31,3.0
+CUST00986,31,Male,Kolkata,1188.4,98,37,13,31,Beauty & Personal Care,234.04,6956.96,4.7
+CUST00852,32,Male,Delhi,473.4,60,19,116,27,Grocery,200.0,3106.77,4.2
+CUST00104,27,Male,Pune,762.8,56,19,175,35,Sports & Fitness,200.0,3269.21,3.4
+CUST00422,24,Male,Delhi,289.2,74,24,7,37,Grocery,200.0,4271.1,3.9
+CUST00420,37,Female,,257.0,100,37,3,51,Beauty & Personal Care,238.68,9584.01,4.5
+CUST00625,55,Female,Mumbai,314.0,13,6,8,20,Home & Furniture,200.0,1266.45,2.9
+CUST00587,53,Female,Pune,1239.7,25,15,55,17,Beauty & Personal Care,200.0,3473.08,2.7
+CUST01061,70,Male,Hyderabad,492.6,56,22,214,32,Books & Stationery,200.0,4783.15,3.2
+CUST00920,48,Female,Hyderabad,823.3,59,27,12,24,Sports & Fitness,200.0,5433.34,3.1
+CUST00673,59,Female,Hyderabad,584.6,44,13,31,35,Fashion & Apparel,200.0,2819.2,3.4
+CUST00120,50,Female,Kolkata,833.8,52,19,105,23,Fashion & Apparel,200.0,4483.61,3.3
+CUST00054,59,Male,Jaipur,523.5,58,20,83,30,Books & Stationery,200.0,3210.18,4.2
+CUST00152,38,Male,Delhi,950.1,88,30,34,23,Books & Stationery,272.84,7379.87,3.9
+CUST00404,23,Female,Pune,156.5,74,20,48,35,Books & Stationery,232.02,4924.81,4.2
+CUST01189,42,Female,Delhi,1264.1,15,7,113,23,Electronics,200.0,1583.94,3.3
+CUST00208,22,Female,Mumbai,232.3,93,28,21,43,Beauty & Personal Care,250.54,7758.86,3.9
+CUST01135,20,Male,Delhi,863.7,6,4,22,10,Fashion & Apparel,200.0,853.03,2.9
+CUST00659,28,Female,Ahmedabad,561.8,49,15,3,42,Fashion & Apparel,200.0,3461.1,3.4
+CUST01097,49,Female,Delhi,784.3,50,21,365,35,Electronics,200.0,4050.06,4.4
+CUST00233,53,Male,Pune,374.3,4,5,49,14,Sports & Fitness,200.0,884.47,2.4
+CUST00009,64,Male,Hyderabad,285.0,1,5,365,9,Electronics,200.0,921.25,3.3
+CUST00160,29,Female,Lucknow,929.7,77,32,28,36,Fashion & Apparel,200.0,7015.32,3.8
+CUST00037,42,Female,Lucknow,408.7,14,6,258,26,Beauty & Personal Care,200.0,1077.74,3.0
+CUST00453,33,Female,Pune,529.4,58,13,104,39,Electronics,200.0,2323.8,3.7
+CUST00652,33,Male,Lucknow,509.8,57,15,58,34,Grocery,200.0,3155.52,4.4
+CUST00254,58,Male,Kolkata,506.1,58,17,14,1,Sports & Fitness,200.0,3889.87,4.7
+CUST00304,26,Male,Bengaluru,752.3,59,22,71,34,Electronics,200.0,5237.19,3.1
+CUST00897,46,Female,Hyderabad,741.8,48,17,3,31,Grocery,200.0,3247.79,3.4
+CUST01049,28,Female,Lucknow,478.6,40,11,17,1,Grocery,200.0,2075.48,3.2
+CUST00881,57,Male,Hyderabad,658.2,56,24,216,31,Grocery,200.0,4798.98,3.3
+CUST00572,28,Male,Bengaluru,1045.8,75,28,31,16,Books & Stationery,202.67,6794.58,4.3
+CUST00624,30,Male,Chennai,316.1,71,21,71,49,Electronics,239.18,5056.79,3.7
+CUST01145,25,Male,Hyderabad,944.3,11,6,216,22,Books & Stationery,200.0,1250.4,3.2
+CUST01031,61,Male,Hyderabad,372.1,1,2,8,13,Grocery,200.0,339.01,3.2
+CUST01146,29,Male,Hyderabad,899.8,95,24,4,41,Books & Stationery,306.27,7373.68,3.5
+CUST00263,67,Female,Delhi,542.7,51,17,74,32,Sports & Fitness,200.0,2996.46,4.5
+CUST00611,66,Male,Hyderabad,179.2,21,9,76,1,Grocery,200.0,1975.95,1.4
+CUST00298,27,Female,Kolkata,691.2,50,18,160,31,Books & Stationery,200.0,3724.98,2.3
+CUST00990,35,Female,Hyderabad,1249.7,83,29,14,36,Fashion & Apparel,254.64,7313.96,4.5
+CUST00415,37,Male,Jaipur,223.0,13,7,106,11,Beauty & Personal Care,200.0,1430.85,3.5
+CUST00151,43,Male,Pune,929.7,12,5,51,16,Electronics,200.0,1024.09,2.6
+CUST00946,28,Male,Jaipur,906.6,96,26,14,49,Home & Furniture,283.78,6867.35,4.1
+CUST00473,60,Female,Ahmedabad,603.4,46,20,92,36,Sports & Fitness,200.0,3714.7,3.7
+CUST00953,45,Female,Lucknow,,22,11,39,19,Grocery,200.0,2517.39,3.8
+CUST00988,28,Male,Ahmedabad,1200.3,66,28,152,50,Grocery,248.59,6729.56,4.2
+CUST00779,59,Male,Chennai,1155.4,16,11,27,7,Sports & Fitness,200.0,2381.38,2.5
+CUST00641,63,Female,Mumbai,441.3,39,18,174,16,Books & Stationery,200.0,3754.86,3.4
+CUST01190,36,Female,Kolkata,1234.9,83,25,6,31,Fashion & Apparel,200.0,4528.03,4.3
+CUST01143,26,Female,Ahmedabad,860.6,40,15,14,14,Home & Furniture,200.0,3058.93,3.9
+CUST00551,43,Male,Pune,916.6,13,5,189,6,Home & Furniture,200.0,961.69,2.6
+CUST00640,21,Female,Mumbai,421.5,75,13,15,34,Books & Stationery,249.04,2652.92,4.2
+CUST00936,30,Female,Kolkata,867.2,87,33,38,22,Electronics,244.14,6561.97,4.2
+CUST00929,59,Male,Kolkata,862.6,9,4,53,15,Home & Furniture,200.0,799.02,2.9
+CUST00489,33,Female,Delhi,692.5,59,17,342,19,Electronics,200.0,3342.45,3.6
+CUST00820,34,Female,Ahmedabad,287.9,100,25,2,38,Fashion & Apparel,227.12,5180.71,3.4
+CUST00711,65,Male,Bengaluru,736.5,53,28,21,18,Beauty & Personal Care,200.0,6318.56,3.0
+CUST01081,57,Male,Ahmedabad,678.9,50,15,109,27,Electronics,200.0,2404.03,3.3
+CUST00148,32,Female,Delhi,905.7,80,21,1,41,Sports & Fitness,249.96,4918.58,3.7
+CUST00147,47,Male,Hyderabad,932.2,35,19,142,31,Grocery,200.0,4450.65,3.5
+CUST01175,52,Female,Kolkata,1047.1,11,7,198,1,Fashion & Apparel,200.0,1641.52,2.9
+CUST00963,18,Male,Ahmedabad,1004.5,6,8,365,20,Home & Furniture,200.0,1361.09,2.1
+CUST00346,26,Male,Ahmedabad,918.1,100,23,5,45,Sports & Fitness,242.86,5743.09,4.7
+CUST00403,21,Female,Bengaluru,223.6,9,10,8,18,Fashion & Apparel,200.0,2100.29,2.2
+CUST00932,40,Male,Mumbai,910.4,75,21,20,55,Grocery,233.54,4217.65,4.0
+CUST00955,46,Female,Delhi,941.6,15,8,148,29,Beauty & Personal Care,200.0,1559.07,1.3
+CUST01125,23,Female,Hyderabad,780.4,26,11,46,26,Home & Furniture,200.0,1922.92,2.0
+CUST00660,53,Male,Bengaluru,517.1,45,21,68,30,Fashion & Apparel,200.0,4737.2,2.8
+CUST00464,52,Female,Lucknow,609.0,68,17,11,24,Grocery,200.0,3787.21,4.5
+CUST00187,54,Female,Lucknow,1243.2,24,8,24,37,Grocery,200.0,1813.44,2.8
+CUST00609,62,Male,Delhi,229.0,2,5,174,13,Home & Furniture,200.0,834.02,2.1
+CUST00144,32,Female,Delhi,898.8,89,33,4,52,Beauty & Personal Care,216.59,5756.21,4.4
+CUST00752,39,Male,Kolkata,942.1,85,24,12,22,Sports & Fitness,239.73,6651.37,4.0
+CUST00982,30,Female,Delhi,1169.9,87,25,26,35,Electronics,239.98,5571.27,3.9
+CUST00198,32,Male,Ahmedabad,1507.4,75,27,54,30,Books & Stationery,219.33,6172.48,4.3
+CUST00884,45,Female,Hyderabad,652.0,48,20,11,27,Fashion & Apparel,200.0,3731.42,3.6
+CUST00280,49,Female,Kolkata,,43,20,14,32,Books & Stationery,200.0,4100.92,2.6
+CUST00294,37,Female,Kolkata,693.2,39,23,106,23,Fashion & Apparel,200.0,4660.04,3.2
+CUST01089,35,Female,Hyderabad,720.3,60,23,71,27,Sports & Fitness,200.0,5392.39,4.2
+CUST00401,19,Male,Pune,178.6,38,6,19,50,Fashion & Apparel,200.0,1027.28,4.0
+CUST00123,40,Female,Jaipur,827.4,57,28,13,23,Sports & Fitness,200.0,4877.44,3.6
+CUST00203,20,Female,Delhi,186.9,6,5,71,21,Sports & Fitness,200.0,1005.11,3.3
+CUST00836,20,Female,Delhi,414.4,83,24,14,30,Home & Furniture,264.92,5873.21,4.1
+CUST00247,49,Female,Hyderabad,,60,31,25,55,Grocery,242.38,6391.71,3.6
+CUST01140,35,Female,Bengaluru,909.1,70,22,5,31,Electronics,200.0,3951.2,3.6
+CUST00385,39,Female,Kolkata,1185.0,40,10,19,28,Fashion & Apparel,200.0,1820.03,3.7
+CUST00855,50,Female,Chennai,525.2,44,14,40,19,Books & Stationery,200.0,2355.54,3.9
+CUST00220,34,Female,Hyderabad,276.7,100,29,3,44,Grocery,319.22,9125.97,4.8
+CUST00642,25,Male,Bengaluru,456.3,92,29,3,28,Beauty & Personal Care,209.5,6533.41,4.4
+CUST00002,20,Male,Mumbai,167.8,84,34,12,45,Books & Stationery,220.8,8043.65,3.7
+CUST00113,37,Female,Delhi,751.1,43,19,34,45,Beauty & Personal Care,200.0,3984.45,3.9
+CUST00699,47,Male,,720.8,48,18,15,35,Electronics,200.0,3600.47,3.3
+CUST00952,40,Male,Ahmedabad,954.3,89,29,11,63,Beauty & Personal Care,200.0,5396.62,4.0
+CUST01079,22,Female,,634.3,55,20,19,26,Home & Furniture,200.0,3841.72,3.6
+CUST00442,24,Male,Pune,468.6,95,25,8,35,Electronics,315.15,8478.68,4.0
+CUST00664,54,Female,Pune,589.6,60,11,83,35,Grocery,200.0,2099.56,4.2
+CUST01197,44,Female,Delhi,1501.0,27,5,64,15,Books & Stationery,200.0,1063.73,2.3
+CUST00318,48,Female,Hyderabad,812.8,59,22,80,26,Home & Furniture,200.0,4085.83,3.2
+CUST00649,29,Female,Jaipur,470.4,45,24,23,25,Sports & Fitness,200.0,5314.09,3.6
+CUST00710,67,Male,Chennai,766.9,46,13,98,15,Grocery,200.0,2125.74,3.2
+CUST00973,36,Male,Jaipur,1036.5,6,2,365,20,Grocery,200.0,455.17,1.9
+CUST00628,37,Male,Hyderabad,375.0,57,18,22,29,Sports & Fitness,200.0,3191.53,2.9
+CUST00633,53,Male,Lucknow,368.1,1,7,203,5,Fashion & Apparel,200.0,1145.17,2.0
+CUST01172,26,Male,Chennai,1038.0,77,23,25,34,Home & Furniture,237.78,5590.6,3.4
+CUST01107,64,Female,Kolkata,804.4,49,25,35,25,Sports & Fitness,200.0,4582.94,3.4
+CUST00796,35,Female,Delhi,,82,26,13,56,Home & Furniture,203.16,5798.94,4.0
+CUST00646,24,Female,Hyderabad,417.1,64,17,158,29,Fashion & Apparel,200.0,3658.79,3.9
+CUST01013,57,Female,Jaipur,272.3,15,12,54,34,Home & Furniture,200.0,2101.86,
+CUST00557,36,Male,Pune,978.7,3,4,52,21,Home & Furniture,200.0,667.59,2.9
+CUST00682,39,Male,Ahmedabad,683.6,52,12,13,34,Home & Furniture,200.0,2097.2,3.3
+CUST00578,28,Male,Mumbai,1061.3,69,22,43,39,Home & Furniture,203.25,4690.08,4.2
+CUST00525,25,Female,Mumbai,868.2,27,11,34,26,Home & Furniture,200.0,1764.83,3.8
+CUST01060,54,Male,Lucknow,565.8,48,19,105,42,Electronics,200.0,4260.41,3.3
+CUST00541,55,Female,Pune,890.3,10,5,149,23,Electronics,200.0,846.11,2.1
+CUST00749,34,Female,Pune,914.2,27,13,359,31,Electronics,200.0,2973.35,2.2
+CUST01110,67,Male,Kolkata,762.5,45,24,126,43,Beauty & Personal Care,200.0,5177.31,3.0
+CUST00485,21,Female,Lucknow,632.0,57,26,18,41,Grocery,200.0,5195.44,4.1
+CUST00096,22,Male,Jaipur,741.1,59,26,28,39,Fashion & Apparel,202.12,5337.66,
+CUST01021,35,Male,Bengaluru,290.3,35,9,107,43,Fashion & Apparel,200.0,1878.92,3.2
+CUST00564,30,Female,Chennai,945.6,91,27,17,45,Electronics,214.13,6026.26,4.0
+CUST00743,27,Female,Mumbai,881.3,39,10,71,12,Fashion & Apparel,200.0,2001.12,3.9
+CUST00864,54,Female,,573.5,64,18,33,18,Books & Stationery,200.0,3188.98,3.3
+CUST00892,18,Male,Hyderabad,723.7,42,9,60,14,Sports & Fitness,200.0,1937.02,2.9
+CUST01039,37,Female,Chennai,421.4,25,15,78,11,Books & Stationery,200.0,3370.88,3.5
+CUST00207,34,Female,Ahmedabad,222.4,3,1,83,20,Sports & Fitness,200.0,225.33,2.5
+CUST00393,32,Male,Kolkata,1351.7,6,7,225,12,Electronics,200.0,1177.73,2.3
+CUST00795,45,Female,Jaipur,1442.2,16,10,35,18,Electronics,200.0,1981.28,2.3
+CUST00871,70,Male,Jaipur,579.4,58,15,87,45,Grocery,200.0,3301.61,4.5
+CUST00398,32,Male,Ahmedabad,1518.0,73,22,38,39,Books & Stationery,203.11,4506.93,3.3
+CUST00767,42,Male,Lucknow,1038.0,17,13,102,36,Books & Stationery,200.0,2114.91,2.1
+CUST01100,21,Male,Bengaluru,724.3,51,28,83,18,Books & Stationery,200.81,6380.03,3.4
+CUST01029,40,Female,Hyderabad,402.6,37,17,3,24,Grocery,200.0,3018.26,3.0
+CUST00643,50,Male,Delhi,490.0,33,11,128,34,Beauty & Personal Care,200.0,2403.58,2.5
+CUST00613,56,Female,Chennai,246.8,14,7,239,17,Books & Stationery,200.0,1424.98,4.0
+CUST00961,58,Female,Delhi,935.0,35,22,91,8,Books & Stationery,200.0,3915.1,3.6
+CUST00726,33,Female,,810.2,79,32,92,34,Grocery,200.0,7035.69,3.3
+CUST00684,45,Female,Bengaluru,650.5,42,23,33,15,Sports & Fitness,200.0,4066.53,3.1
+CUST00099,48,Male,Ahmedabad,703.1,40,19,3,30,Fashion & Apparel,200.0,3693.42,3.4
+CUST00805,33,Female,Ahmedabad,168.9,41,10,9,1,Fashion & Apparel,200.0,1608.06,3.7
+CUST00407,35,Female,Ahmedabad,228.7,11,7,39,15,Books & Stationery,200.0,1574.03,2.1
+CUST00503,66,Male,Bengaluru,747.5,62,22,144,25,Electronics,200.0,4989.16,4.2
+CUST01072,46,Female,Kolkata,,41,17,180,42,Sports & Fitness,200.0,3175.2,2.8
+CUST01057,51,Female,Bengaluru,536.3,51,26,113,19,Books & Stationery,200.0,4160.03,3.8
+CUST00930,38,Male,Pune,878.7,74,26,10,23,Sports & Fitness,211.42,5864.39,3.2
+CUST00780,33,Male,Kolkata,1128.2,91,22,48,36,Home & Furniture,272.31,6956.89,4.1
+CUST00201,19,Male,Mumbai,209.6,37,20,49,35,Sports & Fitness,200.0,3915.16,3.1
+CUST00135,18,Male,Jaipur,886.3,4,7,114,18,Home & Furniture,200.0,1339.69,2.9
+CUST01052,33,Male,Kolkata,501.9,62,19,272,45,Fashion & Apparel,200.0,3044.21,3.9
+CUST00041,66,Female,Pune,487.9,35,12,26,37,Beauty & Personal Care,200.0,2843.88,2.9
+CUST01018,20,Male,Pune,249.5,69,20,4,18,Home & Furniture,200.0,3629.0,4.9
+CUST00231,58,Male,Delhi,353.2,4,6,110,15,Beauty & Personal Care,200.0,1365.53,1.8
+CUST00379,61,Male,Chennai,,15,9,30,30,Sports & Fitness,200.0,1503.8,2.0
+CUST00289,34,Female,Jaipur,704.2,64,16,69,28,Grocery,200.0,3005.29,3.9
+CUST00419,52,Male,Ahmedabad,284.1,31,13,199,18,Home & Furniture,200.0,2156.53,2.8
+CUST00392,32,Female,Pune,1200.8,69,16,26,34,Sports & Fitness,238.86,4019.23,4.1
+CUST00593,35,Male,Bengaluru,1362.8,8,8,147,9,Home & Furniture,200.0,1292.92,2.9
+CUST01087,53,Female,Delhi,701.4,60,25,59,43,Beauty & Personal Care,200.0,4777.9,4.1
+CUST00648,25,Female,Jaipur,452.0,49,21,41,10,Home & Furniture,200.0,4100.49,3.8
+CUST00521,26,Male,Pune,830.2,54,19,34,29,Electronics,200.0,3082.23,4.2
+CUST00065,64,Male,Mumbai,574.8,49,12,50,30,Grocery,200.0,2712.74,3.2
+CUST00015,38,Male,Delhi,173.7,16,10,365,10,Grocery,200.0,2398.03,3.1
+CUST01065,62,Male,Jaipur,587.9,52,29,42,36,Home & Furniture,212.11,6703.27,3.5
+CUST00493,48,Male,Mumbai,685.5,49,14,34,24,Sports & Fitness,200.0,2994.23,3.3
+CUST00380,34,Male,Ahmedabad,1124.6,87,33,22,48,Electronics,212.48,8375.08,4.4
+CUST00188,27,Male,Delhi,1184.8,72,30,75,58,Home & Furniture,217.49,7042.5,3.2
+CUST00764,32,Female,Jaipur,966.1,95,43,2,18,Grocery,232.16,8368.5,4.2
+CUST00217,36,Female,Hyderabad,307.7,35,18,2,24,Home & Furniture,200.0,3131.54,3.4
+CUST00792,30,Female,Bengaluru,1249.6,67,19,8,37,Home & Furniture,200.0,4277.78,4.7
+CUST01077,47,Female,Delhi,616.0,47,19,172,35,Electronics,200.0,3309.24,3.1
+CUST00879,23,Female,Jaipur,594.1,50,21,10,38,Fashion & Apparel,200.0,4260.95,3.8
+CUST00338,32,Male,Ahmedabad,833.8,72,31,31,2,Beauty & Personal Care,221.25,8167.27,4.4
+CUST00720,49,Female,Bengaluru,767.3,53,19,186,23,Home & Furniture,200.0,3400.99,3.3
+CUST00296,24,Male,Kolkata,692.4,55,25,3,34,Electronics,200.0,4409.14,2.7
+CUST01017,35,Female,Kolkata,252.3,35,12,52,23,Fashion & Apparel,200.0,2623.07,3.1
+CUST00456,47,Male,Pune,476.8,46,21,103,21,Books & Stationery,200.0,3377.09,4.1
+CUST00816,22,Male,Kolkata,244.0,80,32,109,33,Sports & Fitness,200.0,6936.29,3.9
+CUST00270,32,Female,Mumbai,531.8,45,13,187,44,Home & Furniture,200.0,2596.2,3.9
+CUST00996,35,Female,Jaipur,1393.6,81,22,30,51,Grocery,200.0,4378.33,4.3
+CUST00202,23,Male,Ahmedabad,171.9,85,22,12,35,Beauty & Personal Care,281.7,6521.22,4.5
+CUST00162,28,Female,Chennai,970.9,83,20,31,24,Fashion & Apparel,216.44,3697.91,3.8
+CUST00730,37,Male,Kolkata,870.3,76,30,8,51,Fashion & Apparel,208.59,6444.78,4.5
+CUST00402,21,Male,Pune,208.3,84,17,14,39,Beauty & Personal Care,207.09,2897.17,4.3
+CUST00703,66,Male,Chennai,759.1,61,22,86,51,Books & Stationery,200.0,5149.51,4.1
+CUST01130,35,Male,Mumbai,877.0,75,27,57,41,Beauty & Personal Care,200.0,4979.27,3.8
+CUST00566,37,Female,Delhi,1016.4,70,32,17,39,Grocery,213.51,6122.45,3.1
+CUST01022,25,Male,Jaipur,268.8,73,31,3,31,Beauty & Personal Care,226.26,6207.96,4.1
+CUST01026,29,Male,Pune,341.9,83,24,8,43,Fashion & Apparel,200.0,4953.25,3.4
+CUST01105,48,Male,Pune,753.2,56,23,69,24,Books & Stationery,232.42,5183.9,3.8
+CUST00206,22,Female,Kolkata,221.4,73,25,39,44,Electronics,200.0,5404.31,4.6
+CUST00035,50,Female,Jaipur,404.2,13,5,272,7,Grocery,200.0,858.45,3.4
+CUST00776,30,Female,Hyderabad,1075.2,81,22,10,48,Fashion & Apparel,211.03,4242.57,3.8
+CUST00509,67,Male,Jaipur,781.6,39,13,93,24,Beauty & Personal Care,200.0,2985.59,3.8
+CUST01184,30,Female,Kolkata,1163.1,88,22,82,35,Fashion & Apparel,230.11,4842.89,3.6
+CUST00092,18,Male,Ahmedabad,697.0,39,6,83,30,Electronics,200.0,1298.36,3.2
+CUST00898,26,Female,Pune,699.9,50,9,29,7,Beauty & Personal Care,200.0,1969.97,4.1
+CUST00565,51,Male,Pune,993.7,26,8,167,24,Books & Stationery,200.0,1795.01,3.4
+CUST00777,57,Male,Lucknow,1008.7,18,12,21,13,Sports & Fitness,200.0,2181.86,2.8
+CUST00242,24,Male,Mumbai,465.0,92,31,16,34,Electronics,213.54,6686.37,3.8
+CUST00014,25,Female,Chennai,222.2,73,29,59,31,Fashion & Apparel,206.11,6939.78,3.0
+CUST00316,19,Female,Lucknow,785.3,50,20,67,19,Electronics,200.0,4075.6,3.1
+CUST00601,20,Male,Chennai,179.0,43,14,67,39,Electronics,200.0,2282.21,
+CUST00388,29,Male,Ahmedabad,1235.6,68,15,161,38,Books & Stationery,221.76,3359.77,4.5
+CUST00167,43,Male,Hyderabad,1003.8,21,8,87,22,Home & Furniture,200.0,1318.05,3.2
+CUST00841,67,Female,Delhi,479.1,38,13,27,32,Sports & Fitness,200.0,2819.69,3.2
+CUST00021,35,Male,Mumbai,286.9,29,10,129,25,Beauty & Personal Care,200.0,1679.86,3.5
+CUST00647,51,Female,Delhi,480.8,56,17,31,28,Beauty & Personal Care,200.0,2797.04,4.1
+CUST01155,48,Female,Kolkata,906.4,19,13,89,32,Grocery,200.0,2962.53,3.7
+CUST00832,23,Female,Lucknow,347.7,78,31,20,18,Electronics,213.89,6284.5,4.6
+CUST00563,19,Male,Lucknow,956.2,6,7,129,5,Beauty & Personal Care,200.0,1327.89,3.1
+CUST01171,39,Male,Hyderabad,1016.5,15,12,65,14,Sports & Fitness,200.0,2731.38,2.1
+CUST00687,56,Female,Ahmedabad,657.4,55,22,95,24,Beauty & Personal Care,200.0,4206.08,3.4
+CUST00958,33,Female,Bengaluru,915.8,76,25,11,36,Beauty & Personal Care,231.23,5666.17,4.1
+CUST00190,38,Female,,1213.1,87,30,5,24,Electronics,272.5,9079.79,4.1
+CUST00976,29,Female,Lucknow,1057.3,84,25,4,36,Fashion & Apparel,259.24,7091.53,4.2
+CUST00700,20,Male,Pune,705.1,51,12,70,31,Grocery,221.99,2294.28,3.6
+CUST00511,63,Male,Pune,741.5,51,15,57,36,Home & Furniture,200.0,3559.98,2.8
+CUST01083,68,Male,Ahmedabad,675.6,44,16,64,27,Sports & Fitness,200.0,2992.2,2.8
+CUST00475,60,Male,Mumbai,642.3,47,19,107,32,Sports & Fitness,200.0,3077.02,3.0
+CUST00857,51,Female,Delhi,515.7,48,14,57,27,Home & Furniture,202.5,3166.5,3.5
+CUST00748,33,Female,Jaipur,,74,26,2,44,Electronics,283.37,6833.81,4.3
+CUST00253,33,Female,Chennai,513.4,58,14,39,34,Books & Stationery,203.9,3382.03,3.3
+CUST00022,24,Male,Ahmedabad,320.3,72,27,57,39,Books & Stationery,200.0,5186.0,4.0
+CUST00460,53,Male,Hyderabad,555.2,43,18,37,18,Books & Stationery,200.0,3121.85,3.7
+CUST00277,44,Female,Lucknow,700.4,58,28,55,33,Home & Furniture,200.0,6169.84,3.8
+CUST00956,29,Female,Delhi,951.0,81,26,33,38,Home & Furniture,202.45,6196.09,5.0
+CUST00386,29,Male,Kolkata,1147.5,97,28,11,5,Grocery,291.42,8729.22,4.4
+CUST00806,23,Female,Jaipur,232.1,75,20,30,23,Sports & Fitness,200.0,3797.51,4.1
+CUST00344,32,Female,Ahmedabad,909.4,82,31,21,31,Beauty & Personal Care,227.17,7265.78,5.0
+CUST00770,34,Male,Hyderabad,1063.9,59,21,11,29,Electronics,200.0,3486.34,3.5
+CUST00131,47,Male,Mumbai,805.1,12,10,365,19,Sports & Fitness,200.0,2292.95,2.6
+CUST00872,46,Female,Lucknow,552.8,41,13,135,38,Books & Stationery,200.0,2835.04,2.6
+CUST01124,39,Male,Chennai,,86,29,20,45,Beauty & Personal Care,253.56,6469.45,3.9
+CUST00088,22,Female,Pune,683.4,58,11,60,28,Sports & Fitness,208.92,2412.18,3.6
+CUST00331,49,Male,Jaipur,865.9,5,5,18,6,Beauty & Personal Care,200.0,1178.75,2.3
+CUST00467,43,Female,Jaipur,581.6,52,23,5,22,Books & Stationery,200.0,4344.04,3.0
+CUST00122,38,Female,Chennai,790.0,45,16,76,30,Grocery,200.0,3169.79,3.4
+CUST01045,48,Female,Ahmedabad,480.3,31,15,59,42,Electronics,200.0,3082.11,3.0
+CUST01096,25,Male,Delhi,743.2,52,23,20,43,Beauty & Personal Care,200.0,5314.31,4.4
+CUST01131,46,Male,Jaipur,829.4,14,9,88,20,Books & Stationery,200.0,1982.99,3.4
+CUST00861,69,Male,Delhi,515.8,56,20,39,27,Sports & Fitness,237.83,4347.06,3.5
+CUST01127,45,Male,Jaipur,796.5,36,12,125,37,Grocery,200.0,2776.05,2.6
