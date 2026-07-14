@@ -102,17 +102,11 @@ you'd find in a real CRM export.
 
 ## 🖼️ Screenshots
 
-> Generated automatically by `src/generate_images.py` into `images/`. Replace with your own run's
-> output if you regenerate the data.
-
-| | |
-|---|---|
-| ![Distributions](images/01_univariate_distributions.png) | ![Correlation Heatmap](images/03_correlation_heatmap.png) |
-| ![Elbow + Silhouette](images/06_elbow_silhouette.png) | ![PCA Clusters](images/07_pca_clusters_2d.png) |
-| ![Algorithm Comparison](images/09_algorithm_comparison.png) | ![Segment Distribution](images/11_segment_distribution_pie.png) |
-
-**Streamlit dashboard:** `![Dashboard Screenshot](images/dashboard_screenshot.png)` — *add your
-own screenshot here after running `streamlit run app.py` locally.*
+| Screenshot | Screenshot |
+|------------|------------|
+| ![Segment Mix by City](images/segment_mix_by_city.png) | ![Spending Score Comparison](images/segment_spending_score_comparison.png) |
+| ![Filtered Customer Data](images/filtered_customer_data_table.png) | ![PCA Clusters](images/pca_clusters.png) |
+| ![Segment Distribution Pie](images/segment_distribution_pie.png) | |
 
 ---
 
