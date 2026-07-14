@@ -2,15 +2,12 @@
 
 **Unsupervised Machine Learning project that segments retail customers into actionable personas using RFM analysis and clustering (K-Means, Hierarchical, DBSCAN).**
 
-!\[Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python\&logoColor=white)
-!\[scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn\&logoColor=white)
-!\[Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas\&logoColor=white)
-!\[Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit\&logoColor=white)
-!\[Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-3F4F75?logo=plotly\&logoColor=white)
-!\[Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white)
-!\[License](https://img.shields.io/badge/License-MIT-green)
-!\[Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-3F4F75?logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 \---
 
 ## 📌 Project Overview \& Problem Statement
@@ -98,18 +95,17 @@ you'd find in a real CRM export.
 10. **Dashboard** — Interactive Streamlit app with filters, KPIs, and segment visualizations.
 
 \---
+## Screenshots
 
-## 🖼️ Screenshots
+![Segment Mix by City](images/segment_mix_by_city.png)
 
+![Spending Score Comparison](images/segment_spending_score_comparison.png)
 
+![Filtered Customer Data](images/filtered_customer_data_table.png)
 
+![PCA Clusters](images/pca_clusters.png)
 
-
-|||
-|-|-|
-|!\[Segment Mix by City](images/segment\_mix\_by\_city.png)| !\[Spending Score Comparison](images/segment\_spending\_score\_comparison.png) |
-|!\[Filtered Customer Data](images/filtered\_customer\_data\_table.png) |!\[PCA Clusters](images/pca\_clusters.png) |
-|!\[Segment Distribution Pie](images/segment\_distribution\_pie.png)||
+![Segment Distribution Pie](images/segment_distribution_pie.png)
 
 \---
 
@@ -219,8 +215,10 @@ customer-segmentation/
 
 ## 👤 Author / Contact
 
-**Harshit fartiyal**
-📧 your.email@example.com · 🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+**Harshit Fartiyal**  
+📧 Email: <fartiyalharshit41@gmail.com>  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harshitfartiyal)  
+💻 GitHub: [Harshit06](https://github.com/Harshit06)
 
 *This project was built as part of an internship/portfolio submission to demonstrate an
 end-to-end unsupervised machine learning workflow — from raw data to a business-ready dashboard.*
